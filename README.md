@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeff Jessie</h1>
-<p align="center"><img src=IMG_0001.jpeg alt="Profile Photo" width=200px height=200px/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/IMG_0001.jpeg"alt="Profile Photo" width=200px height=200px/></p>
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" /> </p>
