@@ -5,10 +5,6 @@
 <img src="IMG_0001.jpeg" alt="Profile Photo" width=200px height=200px align=center/>
 </p>
 
-![Jeff's github stats](https://github-readme-stats.vercel.app/api/J3ffJessie&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/J3ffJessie)](https://github.com/J3ffJessie/github-readme-stats)
-
 
 - 🔭 I’m currently working on [BattleBuddy.io](https://github.com/J3ffJessie/BattleBuddy.io)
 
