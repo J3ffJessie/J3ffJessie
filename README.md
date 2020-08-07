@@ -5,6 +5,11 @@
 <img src="IMG_0001.jpeg" alt="Profile Photo" width=200px height=200px align=center/>
 </p>
 
+![Jeff's github stats](https://github-readme-stats.vercel.app/api/J3ffJessie&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/J3ffJessie)](https://github.com/J3ffJessie/github-readme-stats)
+
+
 - 🔭 I’m currently working on [BattleBuddy.io](https://github.com/J3ffJessie/BattleBuddy.io)
 
 - 👯 I’m looking to collaborate on [BattleBuddy.io](https://github.com/J3ffJessie/BattleBuddy.io)
@@ -14,6 +19,11 @@
 - 📫 How to reach me **jeffjessie@outlook.com**
 
 - ⚡ Fun fact **Army Veteran **
+
+<h3>Veteran</h3>
+<p align="left">I was Active Duty Army for roughly 10 1/2 years and decided to end my active contract and move to the Army Reserves. I have been in the military for the last 16 years and continue to serve in the Army Reserves. I have enjoyed being able to see different parts of the world during my service.  I have deployed to Iraq, stationed in Germany, spent time in Belgium, Romania, Cuba as well as Washington State and Tennessee.  I continue to learn more and more from every soldier that I interact with along my career path and it is truly a blessing to be able to influence younger soldiers and instill pride in them to continue serving their country.  I pride myself on Integrity, Honesty and Respect.  I believe my military service is what helped hsape me into the man I am today.</p>
+
+<h3>Hobbies</h3>
 
 
 
