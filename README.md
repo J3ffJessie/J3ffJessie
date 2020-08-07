@@ -5,6 +5,10 @@
 <img src="IMG_0001.jpeg" alt="Profile Photo" width=200px height=200px align=center/>
 </p>
 
+<p align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J3ffJessie)]</p>
+<p align="center">![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=J3ffJessie&show_icons=true&hide_border=true)</p>
+
+  
 
 - 🔭 I’m currently working on [BattleBuddy.io](https://github.com/J3ffJessie/BattleBuddy.io)
 
