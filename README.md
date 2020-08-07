@@ -24,6 +24,8 @@
 <img align="center" src=IMG_1022.jpeg alt="Vinyl Records" width=200px height=200px/>
 </p>
 
+<p align="center"> My hobbies include Fountain Pens and Vinyl Records.  I am absolutely in love with listening to music from Vinyl records.  I think that the sound is so much better than digital MP3 file format. I also absolutely love writing with fountain pens.  The feeling I get while writing with fountain pens is amazing.  Jus the tactile feeling and the difference in writing with them brings me joy. </p>
+
 
 <p align="center"> 
 <a href=https://codepen.io/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="j3ffjessie" height="20" width="20" /></a>
