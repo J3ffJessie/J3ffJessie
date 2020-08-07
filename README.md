@@ -9,9 +9,9 @@
 - 📫 How to reach me **Jeffjessie@outlook.com**
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3ffjessie&layout=compact&hide=html" alt="j3ffjessie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3ffjessie&layout=compact&hide=html" alt="j3ffjessie" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=j3ffjessie&show_icons=true" alt="j3ffjessie" />
+<img src="https://github-readme-stats.vercel.app/api?username=j3ffjessie&show_icons=true" alt="j3ffjessie" />
 </p>
 
 <h1 align="center">About Me</h1>
