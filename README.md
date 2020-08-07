@@ -2,6 +2,10 @@
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=j3ffjessie alt=j3ffjessie/> </p>
 
+<img src="https://share.icloud.com/photos/01YIg9LIf1tfnQQe3G4B0cn7g"
+     alt="Profile Photo"
+     style="float: left; margin-right: 10px;" />
+
 - 🔭 I’m currently working on [BattleBuddy.io](https://github.com/J3ffJessie/BattleBuddy.io)
 
 - 👯 I’m looking to collaborate on [BattleBuddy.io](https://github.com/J3ffJessie/BattleBuddy.io)
