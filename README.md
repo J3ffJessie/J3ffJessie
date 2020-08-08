@@ -16,7 +16,7 @@
 
 <h1 align="center">About Me</h1>
 <h3 align="center">Veteran</h3>
-<p align="left">I was Active Duty Army for roughly 10 1/2 years and decided to end my active contract and move to the Army Reserves. I have been in the military for the last 16 years and continue to serve in the Army Reserves. I have enjoyed being able to see different parts of the world during my service.  I have deployed to Iraq, stationed in Germany, spent time in Belgium, Romania, Cuba as well as Washington State and Tennessee.  I continue to learn more and more from every soldier that I interact with along my career path and it is truly a blessing to be able to influence younger soldiers and instill pride in them to continue serving their country.  I pride myself on Integrity, Honesty and Respect.  I believe my military service is what helped hsape me into the man I am today.</p>
+<p align="left">I was Active Duty Army for roughly 10 1/2 years and decided to end my active contract and move to the Army Reserves. I have been in the military for the last 16 years and continue to serve in the Army Reserves. I have enjoyed being able to see different parts of the world during my service.  I have deployed to Iraq, stationed in Germany, spent time in Belgium, Romania, Cuba as well as Washington State and Tennessee.  I continue to learn more and more from every soldier that I interact with along my career path and it is truly a blessing to be able to influence younger soldiers and instill pride in them to continue serving their country.  I pride myself on Integrity, Honesty and Respect.  I believe my military service is what helped shape me into the man I am today.</p>
 
 <h3 align="center">Hobbies</h3>
 <p align="center">
@@ -24,7 +24,7 @@
 <img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/IMG_1022.jpeg" alt="Vinyl Records" width=200px height=200px/>
 </p>
 
-<p align="left"> My hobbies include Fountain Pens and Vinyl Records.  I am absolutely in love with listening to music from Vinyl records.  I think that the sound is so much better than digital MP3 file format. I also absolutely love writing with fountain pens.  The feeling I get while writing with fountain pens is amazing.  Jus the tactile feeling and the difference in writing with them brings me joy. </p>
+<p align="left"> My hobbies include Fountain Pens and Vinyl Records.  I am absolutely in love with listening to music from Vinyl records.  I think that the sound is so much better than digital MP3 file format. I also absolutely love writing with fountain pens.  The feeling I get while writing with fountain pens is amazing.  Just the tactile feeling and the difference in writing with them brings me joy. </p>
 
 
 <p align="center"> 
