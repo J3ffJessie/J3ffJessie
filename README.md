@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeff Jessie</h1>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/IMG_0001.jpeg"alt="Profile Photo" width=200px height=200px/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.jpeg"alt="Profile Photo" width=200px height=200px/></p>
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" /> </p>
@@ -20,11 +20,13 @@
 
 <h3 align="center">Hobbies</h3>
 <p align="center">
-<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/IMG_1021.jpeg" alt="Fountain Pens" width=200px height=200px/>
-<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/IMG_1022.jpeg" alt="Vinyl Records" width=200px height=200px/>
+<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/pens.jpeg" alt="Fountain Pens" width=200px height=200px/>
+<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/vinyl.jpeg" alt="Vinyl Records" width=200px height=200px/>
 </p>
 
 <p align="left"> My hobbies include Fountain Pens and Vinyl Records.  I am absolutely in love with listening to music from Vinyl records.  I think that the sound is so much better than digital MP3 file format. I also absolutely love writing with fountain pens.  The feeling I get while writing with fountain pens is amazing.  Just the tactile feeling and the difference in writing with them brings me joy. </p>
+
+<h3 align="center">Code Experience</h3>
 
 
 <p align="center"> 
