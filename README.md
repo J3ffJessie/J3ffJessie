@@ -29,7 +29,10 @@
 
 <h3 align="center">Code Experience</h3>
 
-<p>I have been self learning to code for the past year and a half, utilizing Udemy and Youtube tutorials as well as building small things myself.  I have found it difficult to escape the tutorial prison so I decided to join up with <a href="https://www.vetswhocode.io">VetsWhoCode</a> and go through their extensive program to learn correctly and finally get through and build my future career into the tech field.  I hope that you will take a glance at my portfolio and reach out if you have any opportunities that would be of interest to me.</p>
+<p>I have been self learning to code for the past year and a half, utilizing Udemy and Youtube tutorials as well as building small things myself.  I have found it difficult to escape the tutorial prison so I decided to join up with <a href="https://www.vetswhocode.io">VetsWhoCode</a> and go through their extensive program to learn correctly and finally get through and build my future career into the tech field.  I hope that you will take a glance at my portfolio and reach out if you have any opportunities that would be of interest to me. [^1] </p>
+
+
+[^1]: <a href="https://j3ffjessie.github.io">My Portfolio</a>
 
 
 <p align="center"> 
