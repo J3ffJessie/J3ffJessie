@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **BattleBuddy**
 
-- 📫 How to reach me **Jeffjessie@outlook.com**
-
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
 
