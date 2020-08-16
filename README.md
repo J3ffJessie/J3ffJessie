@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeff Jessie</h1>
 <p align="left"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/VWC.png" alt="USA Hashflag" width= 75px height=75px/></p>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.jpeg"alt="Profile Photo" width=200px height=200px border-radius:50%/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.jpeg"alt="Profile Photo" width=200px height=200px/></p>
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" /> </p>
