@@ -5,6 +5,12 @@
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" /> </p>
+<a href="https://github.com/j3ffjessie/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/></a>
+<a href="https://github.com/j3ffjessie/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+
 
 - 🔭 I’m currently working on **BattleBuddy**
 
