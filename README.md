@@ -1,4 +1,4 @@
-<header><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/banner.jpeg" alt="Banner Image" width="100%" height="75px"></header>
+<header><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/banner.jpeg" alt="Banner Image" width="100%" height="100px"></header>
 <h1 align="center">Hi 👋, I'm Jeff Jessie</h1>
 <p align="left"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/VWC.png" alt="USA Hashflag" width= 75px height=75px/></p>
 <p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.jpeg"alt="Profile Photo" width=200px height=200px/></p>
