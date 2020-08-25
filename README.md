@@ -6,9 +6,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" />
-<img src="https://img.shields.io/github/issues/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/></a>
-<img src="https://img.shields.io/github/issues-pr/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
 </p>
 
 - 🔭 I’m currently working on **BattleBuddy**
