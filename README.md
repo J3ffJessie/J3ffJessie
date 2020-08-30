@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" />
 </p>
 
-- 🔭 I’m currently working on **BattleBuddy**
+- 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io">**BattleBuddy**</a>
 
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
