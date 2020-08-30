@@ -1,7 +1,7 @@
 <header>Welcome</header>
 <h1 align="center">Hi 👋, I'm Jeff Jessie</h1>
 <p align="left"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/VWC.png" alt="USA Hashflag" width= 75px height=75px/></p>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.jpeg"alt="Profile Photo" width=200px height=200px/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.png"alt="Profile Photo" width=200px height=200px/></p>
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 <h3 align="center">Hobbies</h3>
 <p align="center">
-<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/pens.jpeg" alt="Fountain Pens" width=200px height=200px/>
+<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/pens.png" alt="Fountain Pens" width=200px height=200px/>
 <img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/vinyl.png" alt="Vinyl Records" width=200px height=200px/>
 </p>
 
