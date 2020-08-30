@@ -28,7 +28,7 @@
 
 <h3 align="center">Hobbies</h3>
 <p align="center">
-<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/pens.png" alt="Fountain Pens" width=200px height=200px padding:16px/>
+<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/pens.png" alt="Fountain Pens" width=200px height=200px/>
 <img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/vinyl.png" alt="Vinyl Records" width=200px height=200px/>
 </p>
 
