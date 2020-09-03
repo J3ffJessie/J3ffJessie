@@ -9,8 +9,8 @@
 </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io">**BattleBuddy**</a>
-<object data="BattleBuddy.surge.sh" width="300" height="300">
-<embed type="text" src="BattleBuddy.surge.sh" width="300" height="300">
+<object data="BattleBuddyLanding.surge.sh" width="300" height="300">
+<embed type="text" src="BattleBuddyLanding.surge.sh" width="300" height="300">
 </object>
 
 - :computer: Portfolio
