@@ -9,8 +9,7 @@
 </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io">**BattleBuddy**</a>
-<iframe name="BattleBuddyLanding" src="BattleBuddyLanding.surge.sh" width="400" height="200" frameborder="0" scrolling="hidden" class="frame-area">
-</iframe>
+<embed type="text" src="BattleBuddyLanding.surge.sh" width="300" height="300">
 
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
