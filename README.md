@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" />
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io">**BattleBuddy**</a> Live View <a href="http://BattleBuddyLanding.surge.sh" target="blank" rel="noopener" rel="noreferrer">:earth_americas:</a>
+- 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io" target="blank" rel="noopener" rel="noreferrer">**BattleBuddy**</a> <strong>Live View</strong> <a href="http://BattleBuddyLanding.surge.sh" target="blank" rel="noopener" rel="noreferrer">:earth_americas:</a>
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
 
