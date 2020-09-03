@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io">**BattleBuddy**</a>
- <iframe src="http://BattleBuddyLanding.surge.sh" title="BattleBuddy.IO Landing Page"></iframe> 
+ <frame src="http://BattleBuddyLanding.surge.sh" title="BattleBuddy.IO Landing Page"></frame> 
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
 
