@@ -9,6 +9,9 @@
 </p>
 
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io">**BattleBuddy**</a>
+<object data="BattleBuddy.surge.sh" width="300" height="300">
+<embed type="text" src="BattleBuddy.surge.sh" width="300" height="300">
+</object>
 
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
