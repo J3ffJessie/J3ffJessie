@@ -1,7 +1,7 @@
-<header><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/banner.jpeg" alt="Banner Image" width="100%" height="100px"></header>
+<header>Welcome</header>
 <h1 align="center">Hi 👋, I'm Jeff Jessie</h1>
-<p align="left"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/VWC.png" alt="USA Hashflag" width= 75px height=75px/></p>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.jpeg"alt="Profile Photo" width=200px height=200px/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/VWC.png" alt="USA Hashflag" width= 75px height=75px/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.png"alt="Profile Photo" width=200px height=200px/></p>
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 
 <p align="center">
@@ -15,6 +15,7 @@
 
 - 🔭 I’m currently working on **BattleBuddy**
 
+- 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io" target="blank" rel="noopener" rel="noreferrer">**BattleBuddy**</a> <strong>Live View</strong> <a href="http://BattleBuddyLanding.surge.sh" target="blank" rel="noopener" rel="noreferrer">:earth_americas:</a>
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
 
@@ -33,8 +34,8 @@
 
 <h3 align="center">Hobbies</h3>
 <p align="center">
-<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/pens.jpeg" alt="Fountain Pens" width=200px height=200px/>
-<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/vinyl.jpeg" alt="Vinyl Records" width=200px height=200px/>
+<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/pens.png" alt="Fountain Pens" width=200px height=200px padding-bottom= 50px/>
+<img align="center" src="https://github.com/J3ffJessie/J3ffJessie/blob/master/vinyl.png" alt="Vinyl Records" width=200px height=200px padding-bottom= 50px/>
 </p>
 
 <p align="left"> My hobbies include Fountain Pens and Vinyl Records.  I am absolutely in love with listening to music from Vinyl records.  I think that the sound is so much better than digital MP3 file format. I also absolutely love writing with fountain pens.  The feeling I get while writing with fountain pens is amazing.  Just the tactile feeling and the difference in writing with them brings me joy. </p>
@@ -51,6 +52,6 @@
 <a href=https://codepen.io/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="j3ffjessie" height="20" width="20" /></a>
 <a href=https://dev.to/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="j3ffjessie" height="20" width="20" /></a>
 <a href=https://twitter.com/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="j3ffjessie" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/jeffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="jeffjessie" height="20" width="20" /></a>
+<a href="http://linkedin.com/in/jeff-jessie-4b2323a9"target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="jeffjessie" height="20" width="20" /></a>
 
 </p>
