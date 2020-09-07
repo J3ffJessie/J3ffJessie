@@ -4,13 +4,14 @@
 <p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.jpeg"alt="Profile Photo" width=200px height=200px/></p>
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" /> </p>
-<a href="https://github.com/j3ffjessie/github-profile-readme-generator/issues" target="blank">
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" />
+<a href="https://github.com/j3ffjessie/github-profile-readme-generator/issues"
 <img src="https://img.shields.io/github/issues/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/></a>
 <a href="https://github.com/j3ffjessie/github-profile-readme-generator/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
-
+</p>
 
 - 🔭 I’m currently working on **BattleBuddy**
 
