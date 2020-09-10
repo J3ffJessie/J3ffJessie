@@ -7,13 +7,10 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=j3ffjessie" alt="j3ffjessie" />
 <a href="https://github.com/j3ffjessie/github-profile-readme-generator/issues"
-<img src="https://img.shields.io/github/issues/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/></a>
-<a href="https://github.com/j3ffjessie/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
-</a>
+<img src="https://img.shields.io/github/issues/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+<a href="https://github.com/j3ffjessie/github-profile-readme-generator/pulls" target="blank"></a>
 </p>
 
-- 🔭 I’m currently working on **BattleBuddy**
 
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io" target="blank" rel="noopener" rel="noreferrer">**BattleBuddy**</a> <strong>Live View</strong> <a href="http://BattleBuddyLanding.surge.sh" target="blank" rel="noopener" rel="noreferrer">:earth_americas:</a>
 - :computer: Portfolio
