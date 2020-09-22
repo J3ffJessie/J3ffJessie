@@ -16,7 +16,9 @@
 <a href="https://j3ffjessie.github.io">My Work</a>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=J3ffJessie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=J3ffJessie&theme=monokai&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <br>
 
