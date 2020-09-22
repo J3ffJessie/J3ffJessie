@@ -17,15 +17,15 @@
 <br>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=J3ffJessie&theme=monokai&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=J3ffJessie&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3ffjessie&layout=compact&hide=html" alt="j3ffjessie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3ffjessie&theme=synthwave&layout=compact&hide=html" alt="j3ffjessie" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=j3ffjessie&show_icons=true" alt="j3ffjessie" />
+<img src="https://github-readme-stats.vercel.app/api?username=j3ffjessie&theme=synthwave&show_icons=true" alt="j3ffjessie" />
 </p>
 
 <h1 align="center">About Me</h1>
