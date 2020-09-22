@@ -14,7 +14,9 @@
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/BattleBuddy.io" target="blank" rel="noopener" rel="noreferrer">**BattleBuddy**</a> <strong>Live View</strong> <a href="http://BattleBuddyLanding.surge.sh" target="blank" rel="noopener" rel="noreferrer">:earth_americas:</a>
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
+<br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=J3ffJessie&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
