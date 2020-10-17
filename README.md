@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.png"alt="Profile Photo" width=200px height=200px/></p>
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=j3ffjessie&color=red" alt="j3ffjessie" />
+<img src="https://komarev.com/ghpvc/?username=j3ffjessie&color=green" alt="j3ffjessie" />
 <a href="https://github.com/j3ffjessie/github-profile-readme-generator/issues"
 <img src="https://img.shields.io/github/issues/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator/issues"/>
 <a href="https://github.com/j3ffjessie/github-profile-readme-generator/pulls" target="blank"></a>
