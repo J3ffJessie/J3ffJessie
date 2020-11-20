@@ -17,10 +17,10 @@
 </p>
 
 </br>
-<hr>
+
 
 <h1 align="center">Code Stats</h1>
-<p>
+<p> Waiting for data from WakaTime.....
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 </p>
