@@ -45,9 +45,10 @@
 
 <p>I have been self learning to code for the past year and a half, utilizing Udemy and Youtube tutorials as well as building small things myself.  I have found it difficult to escape the tutorial prison so I decided to join up with <a href="https://www.vetswhocode.io">VetsWhoCode</a> and go through their extensive program to learn correctly and finally get through and build my future career into the tech field.  I hope that you will take a glance at my portfolio and reach out if you have any opportunities that would be of interest to me. </p>
 
-
-
 <br>
+<h1 align="center"> My Latest Blog Posts: </h1>
+<!--BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <p align="center"> 
 <a href=https://codepen.io/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="j3ffjessie" height="20" width="20" /></a>
