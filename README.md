@@ -5,11 +5,19 @@
 <h3 align="center">A passionate frontend developer from Tennessee</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=j3ffjessie&color=green" alt="j3ffjessie" />
-<a href="https://github.com/j3ffjessie/github-profile-readme-generator/issues"
-<img src="https://img.shields.io/github/issues/j3ffjessie/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator/issues"/>
-<a href="https://github.com/j3ffjessie/github-profile-readme-generator/pulls" target="blank"></a>
+</p>
+</br>
+</br>
+<h1 align="center">Contact Me</h1>
+<p align="center">
+<a href="mailto:j3ffjessie@protonmail.com"><img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://www.twitter.com/j3ffjessie"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="http://linkedin.com/in/jeff-jessie-4b2323a9"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/J3ffJessie"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+</br>
+<hr>
 
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/todo-time-tracker" target="blank" rel="noopener" rel="noreferrer">**ToDo/Goal Tracker**</a>
 - :computer: Portfolio
@@ -48,7 +56,7 @@
 <br>
 <h1 align="center"> My Latest Blog Posts: </h1>
 
-# DEV
+# <a href="https://dev.to/j3ffjessie"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
 - [How to Build Good Habits and Excel as a Junior Developer Part 2: What Are Habits](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-2-k3d)
 - [How to Build Good Habits and Excel as a Junior Developer](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-17h5)
@@ -58,7 +66,6 @@
 
 <p align="center"> 
 <a href=https://codepen.io/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="j3ffjessie" height="20" width="20" /></a>
-<a href=https://dev.to/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="j3ffjessie" height="20" width="20" /></a>
 <a href=https://twitter.com/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="j3ffjessie" height="20" width="20" /></a>
 <a href="http://linkedin.com/in/jeff-jessie-4b2323a9"target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="jeffjessie" height="20" width="20" /></a>
 
