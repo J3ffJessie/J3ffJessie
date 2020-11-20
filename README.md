@@ -48,8 +48,10 @@
 <br>
 <h1 align="center"> My Latest Blog Posts: </h1>
 
-<!-- BLOG-POST-LIST::START -->
-<!-- BLOG-POST-LIST::END -->
+# DEV
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <p align="center"> 
 <a href=https://codepen.io/j3ffjessie target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="j3ffjessie" height="20" width="20" /></a>
