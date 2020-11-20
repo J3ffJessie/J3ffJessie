@@ -19,6 +19,17 @@
 </br>
 <hr>
 
+<h1 align="center">Code Stats</h1>
+<p>
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+</p>
+
+
+
+
+
+
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/todo-time-tracker" target="blank" rel="noopener" rel="noreferrer">**ToDo/Goal Tracker**</a>
 - :computer: Portfolio
 <a href="https://j3ffjessie.github.io">My Work</a>
