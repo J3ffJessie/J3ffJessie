@@ -20,8 +20,9 @@
 
 
 <h1 align="center">Code Stats</h1>
-<img src="https://wakatime.com/share/@j3ffjessie/e90dafdc-ea8f-4631-93a0-dbb4c90dffc6.svg" height='200px' width='200px'/>
-
+<p align="center">
+<img src="https://wakatime.com/share/@j3ffjessie/8c568217-06b9-4b8f-9455-88a97fbaff64.svg" height='500px' width='500px' />
+</p>
 
 
 
