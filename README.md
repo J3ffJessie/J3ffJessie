@@ -20,8 +20,7 @@
 
 
 <h1 align="center">Code Stats</h1>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github.com/j3ffjessie/j3ffjessie/blob/master/images/stat.svg" alt="Wakatime Stats"/>
 
 
 
