@@ -20,12 +20,8 @@
 
 
 <h1 align="center">Code Stats</h1>
-<p> Waiting for data from WakaTime.....
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-</p>
 
-
+<img src="https://github.com/j3ffjessie/j3ffjessie/blob/master/images/stat.svg" alt="My Coding Activity"/>
 
 
 
