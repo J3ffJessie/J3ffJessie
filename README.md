@@ -20,8 +20,8 @@
 
 
 <h1 align="center">Code Stats</h1>
-
-<img src="https://github.com/j3ffjessie/j3ffjessie/blob/master/images/stat.svg" alt="My Coding Activity"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
