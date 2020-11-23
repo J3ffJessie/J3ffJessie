@@ -20,7 +20,7 @@
 
 
 <h1 align="center">Code Stats</h1>
-<img src="https://github.com/j3ffjessie/j3ffjessie/blob/master/images/stat.svg" alt="Coding Stats for ReadMe Profile"/>
+<figure><embed src="https://wakatime.com/share/@j3ffjessie/e90dafdc-ea8f-4631-93a0-dbb4c90dffc6.svg"></embed></figure>
 
 
 
