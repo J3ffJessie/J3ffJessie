@@ -20,7 +20,7 @@
 
 
 <h1 align="center">Code Stats</h1>
-<img src="https://github.com/j3ffjessie/j3ffjessie/blob/master/images/stat.svg" alt="Wakatime Stats"/>
+<img src="https://github.com/j3ffjessie/todo-time-tracker/blob/master/images/stat.svg" alt="Wakatime Stats"/>
 
 
 
