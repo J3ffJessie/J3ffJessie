@@ -20,7 +20,7 @@
 
 
 <h1 align="center">Code Stats</h1>
-<img src="https://github.com/j3ffjessie/todo-time-tracker/blob/dev_v1/images/stat.svg" alt="Coding Stats for ToDo Tracker"/>
+<img src="https://github.com/j3ffjessie/j3ffjessie/blob/dev_v1/images/stat.svg" alt="Coding Stats for ReadMe Profile"/>
 
 
 
