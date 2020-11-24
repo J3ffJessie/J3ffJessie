@@ -21,9 +21,10 @@
 
 <h1 align="center">Code Stats</h1>
 <p align="center">
-<img src="https://wakatime.com/share/@j3ffjessie/8c568217-06b9-4b8f-9455-88a97fbaff64.svg" height='500px' width='500px' />
+[![time tracker](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker.svg height='500px' width='500px')](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker)
 </p>
 
+[![time tracker](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker.svg height='500px' width='500px')](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker)
 
 
 
