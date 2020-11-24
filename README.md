@@ -20,9 +20,7 @@
 
 
 <h1 align="center">Code Stats</h1>
-<p align="center">
-<img src="https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker.svg height='500px' width='500px'" />
-</p>
+[![time tracker](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker.svg)](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker)
 
 
 
