@@ -19,10 +19,6 @@
 </br>
 
 
-<h1 align="center">Code Stats</h1>
-[![time tracker](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker.svg)](https://wakatime.com/badge/github/J3ffJessie/todo-time-tracker)
-
-
 
 - 🔭 I’m currently working on <a href="https://github.com/J3ffJessie/todo-time-tracker" target="blank" rel="noopener" rel="noreferrer">**ToDo/Goal Tracker**</a>
 - :computer: Portfolio
