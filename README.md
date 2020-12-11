@@ -59,6 +59,7 @@
 
 # <a href="https://dev.to/j3ffjessie"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/></a>
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Good Habits and Excel as a Junior Developer Part 4: Make It Obvious](https://dev.to/j3ffjessie/how-to-build-good-habits-and-excel-as-a-junior-developer-part-4-make-it-obvious-3fh5)
 - [How to Build Good Habits and Excel as a Junior Developer Part 3: Awareness](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-3-awareness-3hcn)
 - [How to Build Good Habits and Excel as a Junior Developer Part 2: What Are Habits](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-2-k3d)
 - [How to Build Good Habits and Excel as a Junior Developer](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-17h5)
