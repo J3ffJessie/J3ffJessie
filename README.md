@@ -69,10 +69,11 @@
 
 <br>
 
+<br>
+
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88629%20lines%20of%20code-blue)
 
@@ -88,6 +89,7 @@
  > 
 > 🔑 1 Private Repository 
  > 
+
 **I'm an Early 🐤** 
 
 ```text
