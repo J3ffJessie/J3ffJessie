@@ -69,6 +69,7 @@
 
 <br>
 
+<p align="center">
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -148,6 +149,8 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</p>
 
 <br>
 
