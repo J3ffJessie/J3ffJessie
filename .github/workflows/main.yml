@@ -1,0 +1,46 @@
+name: Waka Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+Go to your repo secrets by hitting Settings => Secrets tab in your profile repo. You can also enter the url https://github.com/USERNAME/USERNAME/settings/secrets . Please replace the USERNAME with your own username.
+Create a new Secret. Name: WAKATIME_API_KEY, Value: Paste the Wakatime API key here. If you don't know what is the key, please go to Account Settings in WakaTime to find your API Key there.
+Add a comment to your README.md like this:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+Go to Workflows menu (mentioned in step 1), click Waka Readme, click Run workflow.
+Go to your profile page. you will be able to see it.
+Other Repository (not Profile)
+If you're executing the workflow on another repo other than <username>/<username>
+
+You'll need to get a GitHub Access Token with a repo scope and save it in the Repo Secrets GH_TOKEN = <Your GitHub Access Token>
+
+Here is Sample Workflow File for running it:
+
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
