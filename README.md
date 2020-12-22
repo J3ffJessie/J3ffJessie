@@ -70,3 +70,9 @@
 <br>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#2](https://github.com/J3ffJessie/React-Profile/issues/2) in [J3ffJessie/React-Profile](https://github.com/J3ffJessie/React-Profile)
+2. ❗️ Closed issue [#1](https://github.com/J3ffJessie/React-Profile/issues/1) in [J3ffJessie/React-Profile](https://github.com/J3ffJessie/React-Profile)
+3. 🗣 Commented on [#1](https://github.com/J3ffJessie/React-Profile/issues/1) in [J3ffJessie/React-Profile](https://github.com/J3ffJessie/React-Profile)
+4. ❗️ Closed issue [#1](https://github.com/J3ffJessie/NoteKeeper/issues/1) in [J3ffJessie/NoteKeeper](https://github.com/J3ffJessie/NoteKeeper)
+5. ❗️ Opened issue [#1](https://github.com/J3ffJessie/React-Profile/issues/1) in [J3ffJessie/React-Profile](https://github.com/J3ffJessie/React-Profile)
+<!--END_SECTION:activity-->
