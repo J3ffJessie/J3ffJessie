@@ -28,12 +28,8 @@
 
 <h2 align="center"> Blogs posts </h2>
 <br>
+
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Good Habits and Excel as a Junior Developer Part 4: Make It Obvious](https://dev.to/j3ffjessie/how-to-build-good-habits-and-excel-as-a-junior-developer-part-4-make-it-obvious-3fh5)
-- [How to Build Good Habits and Excel as a Junior Developer Part 3: Awareness](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-3-awareness-3hcn)
-- [How to Build Good Habits and Excel as a Junior Developer Part 2: What Are Habits](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-2-k3d)
-- [How to Build Good Habits and Excel as a Junior Developer](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-17h5)
-- [Why I am starting over with JavaScript.](https://dev.to/j3ffjessie/why-i-am-starting-over-with-javascript-2a0k)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -76,7 +72,7 @@
 - [How to Build Good Habits and Excel as a Junior Developer Part 2: What Are Habits](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-2-k3d)
 - [How to Build Good Habits and Excel as a Junior Developer](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-17h5)
 - [Why I am starting over with JavaScript.](https://dev.to/j3ffjessie/why-i-am-starting-over-with-javascript-2a0k)
-<!-- BLOG-POST-LIST:END -->
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
