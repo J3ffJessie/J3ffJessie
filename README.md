@@ -9,6 +9,8 @@
 
 
 <p align="center"> <a href="https://twitter.com/j3ffjessie" target="blank"><img src="https://img.shields.io/twitter/follow/j3ffjessie?logo=twitter&style=for-the-badge" alt="j3ffjessie" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie&label=Page%20views&color=1a1b27&style=flat" alt="j3ffjessie" /> </p>
+
 
 <br>
 
@@ -63,7 +65,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j3ffjessie&theme=tokyonight" alt="j3ffjessie" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie&label=Page%20views&color=1a1b27&style=flat" alt="j3ffjessie" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j3ffjessie&theme=nord&row=2&column=3" alt="j3ffjessie" /></a> </p>
 
