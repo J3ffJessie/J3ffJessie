@@ -83,9 +83,9 @@ JSON         2 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/jakierice/realworld-app-training-ground/issues/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
-2. 💪 Opened PR [#5](https://github.com/jakierice/realworld-app-training-ground/pull/5) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
-3. ❌ Closed PR [#4](https://github.com/jakierice/realworld-app-training-ground/pull/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
-4. 💪 Opened PR [#4](https://github.com/jakierice/realworld-app-training-ground/pull/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
-5. 🎉 Merged PR [#1](https://github.com/J3ffJessie/react-realworld-app/pull/1) in [J3ffJessie/react-realworld-app](https://github.com/J3ffJessie/react-realworld-app)
+1. 💪 Opened PR [#6](https://github.com/Vets-Who-Code/prework/pull/6) in [Vets-Who-Code/prework](https://github.com/Vets-Who-Code/prework)
+2. 🗣 Commented on [#4](https://github.com/jakierice/realworld-app-training-ground/issues/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
+3. 💪 Opened PR [#5](https://github.com/jakierice/realworld-app-training-ground/pull/5) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
+4. ❌ Closed PR [#4](https://github.com/jakierice/realworld-app-training-ground/pull/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
+5. 💪 Opened PR [#4](https://github.com/jakierice/realworld-app-training-ground/pull/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
 <!--END_SECTION:activity-->
