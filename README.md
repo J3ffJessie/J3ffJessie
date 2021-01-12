@@ -85,9 +85,9 @@ JSON         7 mins          █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
-2. 💪 Opened PR [#6](https://github.com/Vets-Who-Code/prework/pull/6) in [Vets-Who-Code/prework](https://github.com/Vets-Who-Code/prework)
-3. 🗣 Commented on [#4](https://github.com/jakierice/realworld-app-training-ground/issues/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
-4. 💪 Opened PR [#5](https://github.com/jakierice/realworld-app-training-ground/pull/5) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
-5. ❌ Closed PR [#4](https://github.com/jakierice/realworld-app-training-ground/pull/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
+1. ❌ Closed PR [#2](https://github.com/Adrian609/gatsby-docs/pull/2) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
+2. 🎉 Merged PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
+3. 💪 Opened PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
+4. 💪 Opened PR [#6](https://github.com/Vets-Who-Code/prework/pull/6) in [Vets-Who-Code/prework](https://github.com/Vets-Who-Code/prework)
+5. 🗣 Commented on [#4](https://github.com/jakierice/realworld-app-training-ground/issues/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
 <!--END_SECTION:activity-->
