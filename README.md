@@ -148,9 +148,9 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/Adrian609/gatsby-docs/pull/2) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
-2. 🎉 Merged PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
-3. 💪 Opened PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
-4. 💪 Opened PR [#6](https://github.com/Vets-Who-Code/prework/pull/6) in [Vets-Who-Code/prework](https://github.com/Vets-Who-Code/prework)
-5. 🗣 Commented on [#4](https://github.com/jakierice/realworld-app-training-ground/issues/4) in [jakierice/realworld-app-training-ground](https://github.com/jakierice/realworld-app-training-ground)
+1. 🎉 Merged PR [#1](https://github.com/J3ffJessie/J3-Dev-Blog/pull/1) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
+2. 💪 Opened PR [#1](https://github.com/J3ffJessie/J3-Dev-Blog/pull/1) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
+3. ❌ Closed PR [#2](https://github.com/Adrian609/gatsby-docs/pull/2) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
+4. 🎉 Merged PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
+5. 💪 Opened PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
 <!--END_SECTION:activity-->
