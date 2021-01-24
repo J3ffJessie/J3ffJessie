@@ -82,9 +82,9 @@ JavaScript   1 min           ██░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/Adrian609/gatsby-docs/pull/13) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
-2. 🎉 Merged PR [#1](https://github.com/J3ffJessie/J3-Dev-Blog/pull/1) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
-3. 💪 Opened PR [#1](https://github.com/J3ffJessie/J3-Dev-Blog/pull/1) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
-4. ❌ Closed PR [#2](https://github.com/Adrian609/gatsby-docs/pull/2) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
-5. 🎉 Merged PR [#4](https://github.com/Adrian609/gatsby-docs/pull/4) in [Adrian609/gatsby-docs](https://github.com/Adrian609/gatsby-docs)
+1. ❗️ Reopened issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+2. ❗️ Closed issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+3. ❗️ Opened issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+4. ❗️ Opened issue [#3](https://github.com/J3ffJessie/Devfolio/issues/3) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+5. ❗️ Opened issue [#2](https://github.com/J3ffJessie/Devfolio/issues/2) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
 <!--END_SECTION:activity-->
