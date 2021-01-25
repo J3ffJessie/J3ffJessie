@@ -12,7 +12,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [BattleBuddy](https://github.com/J3ffJessie/BattleBuddy.io)
+- 🔭 I’m currently working on [Planning]("")
 
 - 🌱 I’m currently learning **React, Gatsby**
 
