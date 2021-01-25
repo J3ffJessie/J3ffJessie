@@ -154,9 +154,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/J3ffJessie/Devfolio/issues/1) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-2. 🎉 Merged PR [#2](https://github.com/J3ffJessie/J3-Dev-Blog/pull/2) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
-3. 💪 Opened PR [#2](https://github.com/J3ffJessie/J3-Dev-Blog/pull/2) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
-4. ❗️ Reopened issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-5. ❗️ Closed issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+1. 🎉 Merged PR [#5](https://github.com/J3ffJessie/Devfolio/pull/5) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+2. 💪 Opened PR [#5](https://github.com/J3ffJessie/Devfolio/pull/5) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+3. ❗️ Closed issue [#1](https://github.com/J3ffJessie/Devfolio/issues/1) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+4. 🎉 Merged PR [#2](https://github.com/J3ffJessie/J3-Dev-Blog/pull/2) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
+5. 💪 Opened PR [#2](https://github.com/J3ffJessie/J3-Dev-Blog/pull/2) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
 <!--END_SECTION:activity-->
