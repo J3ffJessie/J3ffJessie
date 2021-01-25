@@ -70,39 +70,39 @@
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="blank" ref="no-referrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/></a> </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-407453%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-393092%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 39 Contributions in the Year 2021
+> 🏆 40 Contributions in the Year 2021
  > 
-> 📦 73.0 kB Used in Github's Storage 
+> 📦 73.1 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 61 Public Repositories 
+> 📜 59 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
-🌆 Daytime    120 commits    █████████░░░░░░░░░░░░░░░░   38.1% 
-🌃 Evening    145 commits    ███████████░░░░░░░░░░░░░░   46.03% 
-🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9%
+🌞 Morning    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
+🌆 Daytime    118 commits    █████████░░░░░░░░░░░░░░░░   39.46% 
+🌃 Evening    134 commits    ███████████░░░░░░░░░░░░░░   44.82% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       99 commits     ███████░░░░░░░░░░░░░░░░░░   31.43% 
-Tuesday      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-Wednesday    67 commits     █████░░░░░░░░░░░░░░░░░░░░   21.27% 
-Thursday     19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.03% 
-Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Saturday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.89% 
-Sunday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.46%
+Monday       97 commits     ████████░░░░░░░░░░░░░░░░░   32.44% 
+Tuesday      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
+Wednesday    64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.4% 
+Thursday     18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
+Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
+Saturday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
+Sunday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06%
 
 ```
 
@@ -113,27 +113,30 @@ Sunday       55 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-CSS                      17 mins             ██████████████████████░░░   90.85% 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
+JavaScript               1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   37.45% 
+SCSS                     1 hr 4 mins         █████████░░░░░░░░░░░░░░░░   35.74% 
+CSS                      34 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.89% 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
+JSX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+VS Code                  3 hrs               █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-J3-Dev-Blog              17 mins             ██████████████████████░░░   91.45% 
-Jest                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.55%
+Devfolio                 2 hrs 25 mins       ████████████████████░░░░░   80.5% 
+J3-Dev-Blog              33 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.6% 
+Jest                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ██████████████░░░░░░░░░░░   58.7% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Tcl                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+JavaScript               26 repos            ██████████████░░░░░░░░░░░   59.09% 
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Tcl                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
 
 ```
 
