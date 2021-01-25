@@ -151,9 +151,9 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Reopened issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-2. ❗️ Closed issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-3. ❗️ Opened issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-4. ❗️ Opened issue [#3](https://github.com/J3ffJessie/Devfolio/issues/3) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-5. ❗️ Opened issue [#2](https://github.com/J3ffJessie/Devfolio/issues/2) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+1. 🎉 Merged PR [#2](https://github.com/J3ffJessie/J3-Dev-Blog/pull/2) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
+2. 💪 Opened PR [#2](https://github.com/J3ffJessie/J3-Dev-Blog/pull/2) in [J3ffJessie/J3-Dev-Blog](https://github.com/J3ffJessie/J3-Dev-Blog)
+3. ❗️ Reopened issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+4. ❗️ Closed issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+5. ❗️ Opened issue [#4](https://github.com/J3ffJessie/Devfolio/issues/4) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
 <!--END_SECTION:activity-->
