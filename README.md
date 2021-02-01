@@ -30,11 +30,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Good Habits and Excel as a Junior Developer Part 7](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-8-4jfc)
 - [How to Build Good Habits and Excel as a Junior Developer Part 6](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-6-2206)
 - [How to Build Good Habits and Excel as a Junior Developer Part 5 : Environment Over Motivation](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-5-environment-over-motivation-2ojj)
 - [How to Build Good Habits and Excel as a Junior Developer Part 4: Make It Obvious](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-4-make-it-obvious-3fh5)
 - [How to Build Good Habits and Excel as a Junior Developer Part 3: Awareness](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-3-awareness-3hcn)
-- [How to Build Good Habits and Excel as a Junior Developer Part 2: What Are Habits](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-2-k3d)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
