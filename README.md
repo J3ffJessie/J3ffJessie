@@ -85,9 +85,9 @@ Markdown     22 mins         █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/J3ffJessie/Covid-Tracker/pull/6) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-2. 💪 Opened PR [#6](https://github.com/J3ffJessie/Covid-Tracker/pull/6) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-3. ❗️ Closed issue [#1](https://github.com/J3ffJessie/Covid-Tracker/issues/1) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-4. ❗️ Closed issue [#3](https://github.com/J3ffJessie/Covid-Tracker/issues/3) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-5. 🎉 Merged PR [#5](https://github.com/J3ffJessie/Covid-Tracker/pull/5) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+1. ❗️ Closed issue [#3](https://github.com/J3ffJessie/Devfolio/issues/3) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+2. 🗣 Commented on [#3](https://github.com/J3ffJessie/Devfolio/issues/3) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+3. 🎉 Merged PR [#6](https://github.com/J3ffJessie/Covid-Tracker/pull/6) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+4. 💪 Opened PR [#6](https://github.com/J3ffJessie/Covid-Tracker/pull/6) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+5. ❗️ Closed issue [#1](https://github.com/J3ffJessie/Covid-Tracker/issues/1) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
 <!--END_SECTION:activity-->
