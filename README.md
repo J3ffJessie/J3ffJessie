@@ -153,9 +153,9 @@ Tcl                      1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#8](https://github.com/J3ffJessie/Covid-Tracker/pull/8) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-2. 💪 Opened PR [#8](https://github.com/J3ffJessie/Covid-Tracker/pull/8) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-3. ❗️ Opened issue [#7](https://github.com/J3ffJessie/Covid-Tracker/issues/7) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-4. ❗️ Closed issue [#3](https://github.com/J3ffJessie/Devfolio/issues/3) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-5. 🗣 Commented on [#3](https://github.com/J3ffJessie/Devfolio/issues/3) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+1. 🎉 Merged PR [#9](https://github.com/J3ffJessie/Covid-Tracker/pull/9) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+2. 💪 Opened PR [#9](https://github.com/J3ffJessie/Covid-Tracker/pull/9) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+3. 🎉 Merged PR [#8](https://github.com/J3ffJessie/Covid-Tracker/pull/8) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+4. 💪 Opened PR [#8](https://github.com/J3ffJessie/Covid-Tracker/pull/8) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+5. ❗️ Opened issue [#7](https://github.com/J3ffJessie/Covid-Tracker/issues/7) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
 <!--END_SECTION:activity-->
