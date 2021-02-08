@@ -12,7 +12,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Covid Tracker]("https://github.com/J3ffJessie/Covid-Tracker")
+- 🔭 I’m currently working on [Covid Tracker](https://github.com/J3ffJessie/Covid-Tracker)
 
 - 🌱 I’m currently learning **React, Gatsby**
 
