@@ -85,9 +85,9 @@ Other        2 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#16](https://github.com/J3ffJessie/Covid-Tracker/issues/16) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-2. ❗️ Closed issue [#15](https://github.com/J3ffJessie/Covid-Tracker/issues/15) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-3. 🗣 Commented on [#15](https://github.com/J3ffJessie/Covid-Tracker/issues/15) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-4. ❗️ Opened issue [#15](https://github.com/J3ffJessie/Covid-Tracker/issues/15) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-5. ❗️ Closed issue [#12](https://github.com/J3ffJessie/Covid-Tracker/issues/12) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+1. ❗️ Closed issue [#16](https://github.com/J3ffJessie/Covid-Tracker/issues/16) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+2. 🗣 Commented on [#16](https://github.com/J3ffJessie/Covid-Tracker/issues/16) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+3. ❗️ Opened issue [#16](https://github.com/J3ffJessie/Covid-Tracker/issues/16) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+4. ❗️ Closed issue [#15](https://github.com/J3ffJessie/Covid-Tracker/issues/15) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+5. 🗣 Commented on [#15](https://github.com/J3ffJessie/Covid-Tracker/issues/15) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
 <!--END_SECTION:activity-->
