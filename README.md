@@ -81,9 +81,9 @@ Markdown   26 mins         █████████████████�
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#41](https://github.com/J3ffJessie/Covid-Tracker/issues/41) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-2. 🎉 Merged PR [#42](https://github.com/J3ffJessie/Covid-Tracker/pull/42) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-3. 💪 Opened PR [#42](https://github.com/J3ffJessie/Covid-Tracker/pull/42) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-4. ❗️ Closed issue [#38](https://github.com/J3ffJessie/Covid-Tracker/issues/38) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-5. ❗️ Opened issue [#41](https://github.com/J3ffJessie/Covid-Tracker/issues/41) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+1. 🎉 Merged PR [#7](https://github.com/J3ffJessie/Devfolio/pull/7) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+2. 💪 Opened PR [#7](https://github.com/J3ffJessie/Devfolio/pull/7) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+3. ❗️ Closed issue [#41](https://github.com/J3ffJessie/Covid-Tracker/issues/41) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+4. 🎉 Merged PR [#42](https://github.com/J3ffJessie/Covid-Tracker/pull/42) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+5. 💪 Opened PR [#42](https://github.com/J3ffJessie/Covid-Tracker/pull/42) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
 <!--END_SECTION:activity-->
