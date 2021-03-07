@@ -85,9 +85,9 @@ Other        9 mins          █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/J3ffJessie/Devfolio/pull/10) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-2. 💪 Opened PR [#10](https://github.com/J3ffJessie/Devfolio/pull/10) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-3. ❌ Closed PR [#9](https://github.com/J3ffJessie/Devfolio/pull/9) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-4. 💪 Opened PR [#9](https://github.com/J3ffJessie/Devfolio/pull/9) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-5. 🎉 Merged PR [#8](https://github.com/J3ffJessie/Devfolio/pull/8) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+1. ❗️ Opened issue [#11](https://github.com/J3ffJessie/Devfolio/issues/11) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+2. ❗️ Closed issue [#2](https://github.com/J3ffJessie/Devfolio/issues/2) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+3. 🎉 Merged PR [#10](https://github.com/J3ffJessie/Devfolio/pull/10) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+4. 💪 Opened PR [#10](https://github.com/J3ffJessie/Devfolio/pull/10) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+5. ❌ Closed PR [#9](https://github.com/J3ffJessie/Devfolio/pull/9) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
 <!--END_SECTION:activity-->
