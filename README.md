@@ -30,11 +30,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [How do Family and Friends help shape our Habits?](https://dev.to/vetswhocode/how-do-family-and-friends-help-shape-our-habits-d9a)
 - [How to Build Good Habits and Excel as a Junior Developer Part 7](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-8-4jfc)
 - [How to Build Good Habits and Excel as a Junior Developer Part 6](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-6-2206)
 - [How to Build Good Habits and Excel as a Junior Developer Part 5 : Environment Over Motivation](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-5-environment-over-motivation-2ojj)
 - [How to Build Good Habits and Excel as a Junior Developer Part 4: Make It Obvious](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-4-make-it-obvious-3fh5)
-- [How to Build Good Habits and Excel as a Junior Developer Part 3: Awareness](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-3-awareness-3hcn)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -71,12 +71,6 @@
 
 <!--START_SECTION:waka-->
 
-JavaScript   7 hrs 35 mins   ████████████████████░░░░░   80.61 % 
-CSS          1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-
 <!--END_SECTION:waka-->
 
 </div>
@@ -85,9 +79,9 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#41](https://github.com/J3ffJessie/Covid-Tracker/issues/41) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-2. ❗️ Opened issue [#40](https://github.com/J3ffJessie/Covid-Tracker/issues/40) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-3. ❗️ Opened issue [#39](https://github.com/J3ffJessie/Covid-Tracker/issues/39) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-4. ❗️ Opened issue [#38](https://github.com/J3ffJessie/Covid-Tracker/issues/38) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-5. ❗️ Closed issue [#21](https://github.com/J3ffJessie/Covid-Tracker/issues/21) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+1. ❗️ Opened issue [#11](https://github.com/J3ffJessie/Devfolio/issues/11) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+2. ❗️ Closed issue [#2](https://github.com/J3ffJessie/Devfolio/issues/2) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+3. 🎉 Merged PR [#10](https://github.com/J3ffJessie/Devfolio/pull/10) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+4. 💪 Opened PR [#10](https://github.com/J3ffJessie/Devfolio/pull/10) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+5. ❌ Closed PR [#9](https://github.com/J3ffJessie/Devfolio/pull/9) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
 <!--END_SECTION:activity-->
