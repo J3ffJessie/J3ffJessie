@@ -85,9 +85,9 @@ JSON         1 min           █▒░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#13](https://github.com/J3ffJessie/Devfolio/pull/13) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-2. 💪 Opened PR [#13](https://github.com/J3ffJessie/Devfolio/pull/13) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-3. 🎉 Merged PR [#12](https://github.com/J3ffJessie/Devfolio/pull/12) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-4. 💪 Opened PR [#12](https://github.com/J3ffJessie/Devfolio/pull/12) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-5. ❗️ Opened issue [#11](https://github.com/J3ffJessie/Devfolio/issues/11) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+1. 🗣 Commented on [#41](https://github.com/kozakdenys/qr-code-styling/issues/41) in [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling)
+2. 🎉 Merged PR [#13](https://github.com/J3ffJessie/Devfolio/pull/13) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+3. 💪 Opened PR [#13](https://github.com/J3ffJessie/Devfolio/pull/13) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+4. 🎉 Merged PR [#12](https://github.com/J3ffJessie/Devfolio/pull/12) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+5. 💪 Opened PR [#12](https://github.com/J3ffJessie/Devfolio/pull/12) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
 <!--END_SECTION:activity-->
