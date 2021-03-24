@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Covid Tracker](https://github.com/J3ffJessie/Covid-Tracker)
 
-- 🌱 I’m currently learning **React, Gatsby**
+- 🌱 I’m currently learning **Rails with a side of Ruby**
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
 
@@ -22,7 +22,6 @@
 
 - 📫 How to reach me **j3ffjessie@protonmail.com**
 
-- ⚡ Fun fact **I have yet to watch more than 5 episodes of The Simpsons**
 
 <br>
 
