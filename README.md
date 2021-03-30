@@ -69,13 +69,80 @@
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://aws.amazon.com/" target="blank" ref="no-referrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/></a> </p>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-349387%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 225 Contributions in the Year 2021
+ > 
+> 📦 74.4 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 56 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
 ```text
-JSON         40 mins         ████████████░░░░░░░░░░░░░   47.89 % 
-JavaScript   27 mins         ████████▒░░░░░░░░░░░░░░░░   32.85 % 
-Other        9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Markdown     5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Ruby         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+🌞 Morning    49 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
+🌆 Daytime    119 commits    █████████░░░░░░░░░░░░░░░░   38.89% 
+🌃 Evening    132 commits    ██████████░░░░░░░░░░░░░░░   43.14% 
+🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
+
 ```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       97 commits     ████████░░░░░░░░░░░░░░░░░   31.7% 
+Tuesday      25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
+Wednesday    61 commits     █████░░░░░░░░░░░░░░░░░░░░   19.93% 
+Thursday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.54% 
+Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.19% 
+Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.17% 
+Sunday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.3%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+JavaScript               27 mins             ██████████████████████░░░   91.32% 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
+Ruby                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+
+🔥 Editors: 
+VS Code                  30 mins             █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+VWCBodyonBreak           29 mins             ███████████████████████░░   94.89% 
+remote_gig               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.11%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               27 repos            ███████████████░░░░░░░░░░   61.36% 
+HTML                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45% 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Tcl                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/J3ffJessie/J3ffJessie/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </div>
