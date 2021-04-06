@@ -12,9 +12,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [Covid Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+- 🔭 I’m currently working on [Body on Break](https://github.com/MuddyBootsCode/VWCBodyonBreak)
 
-- 🌱 I’m currently learning **Rails with a side of Ruby**
+- 🌱 I’m currently learning [Form Validation and Handling Inputs](https://youtu.be/DLZtqLrzbfs)
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
 
