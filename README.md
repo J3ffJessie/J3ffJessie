@@ -70,9 +70,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 24 mins    █████████████████████░░░░   83.78 % 
-Markdown     12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JSON         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JavaScript   9 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -82,9 +80,9 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-2. 🗣 Commented on [#41](https://github.com/kozakdenys/qr-code-styling/issues/41) in [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling)
-3. 🎉 Merged PR [#13](https://github.com/J3ffJessie/Devfolio/pull/13) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-4. 💪 Opened PR [#13](https://github.com/J3ffJessie/Devfolio/pull/13) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-5. 🎉 Merged PR [#12](https://github.com/J3ffJessie/Devfolio/pull/12) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+1. 🎉 Merged PR [#1](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/1) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+2. 💪 Opened PR [#1](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/1) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+3. 🗣 Commented on [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+4. 💪 Opened PR [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+5. 🗣 Commented on [#41](https://github.com/kozakdenys/qr-code-styling/issues/41) in [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling)
 <!--END_SECTION:activity-->
