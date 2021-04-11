@@ -80,9 +80,9 @@ JavaScript   1 hr 35 mins    █████████████████
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/1) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-2. 💪 Opened PR [#1](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/1) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-3. 🗣 Commented on [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-4. 💪 Opened PR [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-5. 🗣 Commented on [#41](https://github.com/kozakdenys/qr-code-styling/issues/41) in [kozakdenys/qr-code-styling](https://github.com/kozakdenys/qr-code-styling)
+1. 🗣 Commented on [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+2. 🎉 Merged PR [#1](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/1) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+3. 💪 Opened PR [#1](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/1) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+4. 🗣 Commented on [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+5. 💪 Opened PR [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
 <!--END_SECTION:activity-->
