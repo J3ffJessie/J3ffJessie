@@ -149,9 +149,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/4) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+1. 💪 Opened PR [#7](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/7) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
 2. 🗣 Commented on [#4](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/4) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-3. 💪 Opened PR [#4](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/4) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-4. 🗣 Commented on [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-5. 🎉 Merged PR [#1](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/1) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+3. 🗣 Commented on [#4](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/4) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+4. 💪 Opened PR [#4](https://github.com/MuddyBootsCode/VWCBodyonBreak/pull/4) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+5. 🗣 Commented on [#3](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/3) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
 <!--END_SECTION:activity-->
