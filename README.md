@@ -81,9 +81,9 @@ JSON         4 mins          █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-2. ❗️ Opened issue [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-3. ❗️ Closed issue [#2](https://github.com/J3ffJessie/Covid-Tracker/issues/2) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-4. ❗️ Closed issue [#11](https://github.com/J3ffJessie/Devfolio/issues/11) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
-5. ❗️ Opened issue [#8](https://github.com/alagrede/znote-app/issues/8) in [alagrede/znote-app](https://github.com/alagrede/znote-app)
+1. ❗️ Closed issue [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+2. 🗣 Commented on [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+3. ❗️ Opened issue [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+4. ❗️ Closed issue [#2](https://github.com/J3ffJessie/Covid-Tracker/issues/2) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
+5. ❗️ Closed issue [#11](https://github.com/J3ffJessie/Devfolio/issues/11) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
 <!--END_SECTION:activity-->
