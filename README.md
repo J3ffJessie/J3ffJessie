@@ -80,9 +80,9 @@ No Activity tracked this Week
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-2. 🗣 Commented on [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-3. ❗️ Opened issue [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
-4. ❗️ Closed issue [#2](https://github.com/J3ffJessie/Covid-Tracker/issues/2) in [J3ffJessie/Covid-Tracker](https://github.com/J3ffJessie/Covid-Tracker)
-5. ❗️ Closed issue [#11](https://github.com/J3ffJessie/Devfolio/issues/11) in [J3ffJessie/Devfolio](https://github.com/J3ffJessie/Devfolio)
+1. 🎉 Merged PR [#5](https://github.com/J3ffJessie/CodeJourney/pull/5) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+2. 🎉 Merged PR [#4](https://github.com/J3ffJessie/CodeJourney/pull/4) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+3. ❗️ Closed issue [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+4. 🗣 Commented on [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
+5. ❗️ Opened issue [#17](https://github.com/MuddyBootsCode/VWCBodyonBreak/issues/17) in [MuddyBootsCode/VWCBodyonBreak](https://github.com/MuddyBootsCode/VWCBodyonBreak)
 <!--END_SECTION:activity-->
