@@ -148,9 +148,9 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#5](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/5) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-2. ❌ Closed PR [#4](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/4) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-3. 💪 Opened PR [#4](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/4) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-4. 🎉 Merged PR [#2](https://github.com/J3ffJessie/CodeJourney/pull/2) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
-5. 🎉 Merged PR [#5](https://github.com/J3ffJessie/CodeJourney/pull/5) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+1. 🗣 Commented on [#267](https://github.com/Vets-Who-Code/vets-who-code-app/issues/267) in [Vets-Who-Code/vets-who-code-app](https://github.com/Vets-Who-Code/vets-who-code-app)
+2. 💪 Opened PR [#5](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/5) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+3. ❌ Closed PR [#4](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/4) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+4. 💪 Opened PR [#4](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/4) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+5. 🎉 Merged PR [#2](https://github.com/J3ffJessie/CodeJourney/pull/2) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
 <!--END_SECTION:activity-->
