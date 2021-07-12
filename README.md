@@ -12,9 +12,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [Insert Project Here 🥺]
+- 🔭 I’m currently working on []
 
-- 🌱 I’m currently learning [Form Validation and Handling Inputs](https://youtu.be/DLZtqLrzbfs)
+- 🌱 I’m currently learning [Firebase](https://firebase.google.com/docs/build)
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
 
