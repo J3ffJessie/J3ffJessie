@@ -12,9 +12,9 @@
 
 <br>
 
-- 🔭 I’m currently working on []
+- 🔭 I’m currently working on [J3DevFolio](https://github.com/j3ffjessie)
 
-- 🌱 I’m currently learning [Firebase](https://firebase.google.com/docs/build)
+- 🌱 I’m currently learning [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
 
