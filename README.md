@@ -82,9 +82,9 @@ JSON         3 mins          █░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#10](https://github.com/J3ffJessie/J3ffJessie/issues/10) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-2. ❗️ Opened issue [#10](https://github.com/J3ffJessie/J3ffJessie/issues/10) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-3. 🎉 Merged PR [#5](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/5) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-4. 🗣 Commented on [#267](https://github.com/Vets-Who-Code/vets-who-code-app/issues/267) in [Vets-Who-Code/vets-who-code-app](https://github.com/Vets-Who-Code/vets-who-code-app)
-5. 💪 Opened PR [#5](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/5) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+1. ❗️ Opened issue [#6](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/6) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+2. ❗️ Closed issue [#10](https://github.com/J3ffJessie/J3ffJessie/issues/10) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+3. ❗️ Opened issue [#10](https://github.com/J3ffJessie/J3ffJessie/issues/10) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+4. 🎉 Merged PR [#5](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/5) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+5. 🗣 Commented on [#267](https://github.com/Vets-Who-Code/vets-who-code-app/issues/267) in [Vets-Who-Code/vets-who-code-app](https://github.com/Vets-Who-Code/vets-who-code-app)
 <!--END_SECTION:activity-->
