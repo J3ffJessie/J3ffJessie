@@ -84,9 +84,9 @@ CSS          3 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/6) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-2. 💪 Opened PR [#7](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/7) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-3. ❗️ Opened issue [#6](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/6) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-4. ❗️ Closed issue [#10](https://github.com/J3ffJessie/J3ffJessie/issues/10) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-5. ❗️ Opened issue [#10](https://github.com/J3ffJessie/J3ffJessie/issues/10) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+1. ❗️ Opened issue [#2](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/2) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
+2. ❗️ Opened issue [#1](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/1) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
+3. ❗️ Closed issue [#6](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/6) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+4. 💪 Opened PR [#7](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/7) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+5. ❗️ Opened issue [#6](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/6) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
 <!--END_SECTION:activity-->
