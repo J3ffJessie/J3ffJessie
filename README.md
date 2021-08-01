@@ -30,10 +30,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Abandoning Social Media and the mental health affects](https://dev.to/j3ffjessie/abandoning-social-media-and-the-mental-health-affects-1k3g)
-- [How do Family and Friends help shape our Habits?](https://dev.to/vetswhocode/how-do-family-and-friends-help-shape-our-habits-d9a)
-- [How to Build Good Habits and Excel as a Junior Developer Part 7](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-8-4jfc)
-- [How to Build Good Habits and Excel as a Junior Developer Part 6](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-6-2206)
-- [How to Build Good Habits and Excel as a Junior Developer Part 5 : Environment Over Motivation](https://dev.to/vetswhocode/how-to-build-good-habits-and-excel-as-a-junior-developer-part-5-environment-over-motivation-2ojj)
+- [How do Family and Friends help shape our Habits?](https://dev.to/j3ffjessie/how-do-family-and-friends-help-shape-our-habits-d9a)
+- [How to Build Good Habits and Excel as a Junior Developer Part 7](https://dev.to/j3ffjessie/how-to-build-good-habits-and-excel-as-a-junior-developer-part-8-4jfc)
+- [How to Build Good Habits and Excel as a Junior Developer Part 6](https://dev.to/j3ffjessie/how-to-build-good-habits-and-excel-as-a-junior-developer-part-6-2206)
+- [How to Build Good Habits and Excel as a Junior Developer Part 5 : Environment Over Motivation](https://dev.to/j3ffjessie/how-to-build-good-habits-and-excel-as-a-junior-developer-part-5-environment-over-motivation-2ojj)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
