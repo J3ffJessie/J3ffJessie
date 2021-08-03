@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [J3DevFolio](https://github.com/j3ffjessie)
+- 🔭 I’m currently working on [KMS Grade Checker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
 
 - 🌱 I’m currently learning [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
 
