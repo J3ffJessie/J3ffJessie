@@ -78,9 +78,9 @@ No Activity tracked this Week
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/3) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
-2. ❗️ Opened issue [#2](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/2) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
-3. ❗️ Opened issue [#1](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/1) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
-4. ❗️ Closed issue [#6](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/issues/6) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
-5. 💪 Opened PR [#7](https://github.com/Vets-Who-Code/vetswhocode-extension-pack/pull/7) in [Vets-Who-Code/vetswhocode-extension-pack](https://github.com/Vets-Who-Code/vetswhocode-extension-pack)
+1. 🎉 Merged PR [#1](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/pull/1) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+2. 💪 Opened PR [#1](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/pull/1) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+3. ❗️ Opened issue [#3](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/3) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
+4. ❗️ Opened issue [#2](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/2) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
+5. ❗️ Opened issue [#1](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/1) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
 <!--END_SECTION:activity-->
