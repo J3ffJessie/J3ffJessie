@@ -80,9 +80,9 @@ HTML         2 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#11](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/11) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-2. 🎉 Merged PR [#13](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/pull/13) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-3. 💪 Opened PR [#13](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/pull/13) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-4. ❗️ Opened issue [#12](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/12) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-5. ❗️ Opened issue [#11](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/11) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+1. ❗️ Closed issue [#12](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/12) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+2. ❗️ Closed issue [#11](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/11) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+3. 🎉 Merged PR [#13](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/pull/13) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+4. 💪 Opened PR [#13](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/pull/13) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+5. ❗️ Opened issue [#12](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/12) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
 <!--END_SECTION:activity-->
