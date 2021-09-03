@@ -80,9 +80,9 @@ JSON         5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/issues/2) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
-2. ❗️ Opened issue [#1](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/issues/1) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
-3. ❗️ Opened issue [#17](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/17) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-4. ❗️ Opened issue [#16](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/16) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-5. ❗️ Opened issue [#15](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/15) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+1. 💪 Opened PR [#53](https://github.com/Junior-Developer-Group/junior-coding-team/pull/53) in [Junior-Developer-Group/junior-coding-team](https://github.com/Junior-Developer-Group/junior-coding-team)
+2. ❗️ Opened issue [#2](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/issues/2) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
+3. ❗️ Opened issue [#1](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/issues/1) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
+4. ❗️ Opened issue [#17](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/17) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+5. ❗️ Opened issue [#16](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/16) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
 <!--END_SECTION:activity-->
