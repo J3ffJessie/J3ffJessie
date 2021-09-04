@@ -3,6 +3,8 @@
 <br>
 <p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.png"alt="Profile Photo" width=200px height=200px/></p>
 
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/JDG.png" alt="Junior Developer Group Logo" width=100px height=100px/></p>
+
 <br>
 
 <p align="center"> <a href="https://twitter.com/j3ffjessie" target="blank"><img src="https://img.shields.io/twitter/follow/j3ffjessie?logo=twitter&style=for-the-badge" alt="j3ffjessie" /></a> </p>
