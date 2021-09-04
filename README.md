@@ -82,9 +82,9 @@ JSON         5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#53](https://github.com/Junior-Developer-Group/junior-coding-team/pull/53) in [Junior-Developer-Group/junior-coding-team](https://github.com/Junior-Developer-Group/junior-coding-team)
-2. ❗️ Opened issue [#2](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/issues/2) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
-3. ❗️ Opened issue [#1](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/issues/1) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
-4. ❗️ Opened issue [#17](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/17) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-5. ❗️ Opened issue [#16](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/16) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+1. ❗️ Closed issue [#16](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/16) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+2. ❗️ Closed issue [#15](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/15) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+3. ❗️ Closed issue [#3](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/3) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
+4. ❗️ Closed issue [#2](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/2) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
+5. ❗️ Closed issue [#1](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/1) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
 <!--END_SECTION:activity-->
