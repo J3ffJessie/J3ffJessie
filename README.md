@@ -82,9 +82,9 @@ JSON         5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#31](https://github.com/Junior-Developer-Group/junior-developer-group/pull/31) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-2. 🗣 Commented on [#53](https://github.com/Junior-Developer-Group/junior-coding-team/issues/53) in [Junior-Developer-Group/junior-coding-team](https://github.com/Junior-Developer-Group/junior-coding-team)
-3. ❗️ Closed issue [#16](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/16) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-4. ❗️ Closed issue [#15](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/15) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-5. ❗️ Closed issue [#3](https://github.com/J3ffJessie/KMS-Grade-Checker/issues/3) in [J3ffJessie/KMS-Grade-Checker](https://github.com/J3ffJessie/KMS-Grade-Checker)
+1. 🗣 Commented on [#31](https://github.com/Junior-Developer-Group/junior-developer-group/issues/31) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+2. 💪 Opened PR [#31](https://github.com/Junior-Developer-Group/junior-developer-group/pull/31) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+3. 🗣 Commented on [#53](https://github.com/Junior-Developer-Group/junior-coding-team/issues/53) in [Junior-Developer-Group/junior-coding-team](https://github.com/Junior-Developer-Group/junior-coding-team)
+4. ❗️ Closed issue [#16](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/16) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+5. ❗️ Closed issue [#15](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/15) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
 <!--END_SECTION:activity-->
