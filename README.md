@@ -12,9 +12,13 @@
 
 <br>
 
-- 🔭 I’m currently working on [KMS Grade Checker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
+- 🔭 I’m currently working on [Junior Developer Group](https://github.com/Junior-Developer-Group/junior-developer-group/tree/dev)
 
-- 🌱 I’m currently learning [Github Actions](https://lab.github.com/githubtraining/github-actions:-hello-world)
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=j3ffjessie&theme=github" alt="J3ffJessie contribution graph" width=500px height=500px /></p>
+
+<br>
+
+- 🌱 I’m currently learning [TypeScript](https://frontendmasters.com/courses/typescript/)
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
 
