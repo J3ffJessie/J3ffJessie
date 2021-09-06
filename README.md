@@ -16,8 +16,6 @@
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=j3ffjessie&theme=github" alt="J3ffJessie contribution graph" width=500px height=500px /></p>
 
-<br>
-
 - 🌱 I’m currently learning [TypeScript](https://frontendmasters.com/courses/typescript/)
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
