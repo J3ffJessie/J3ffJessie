@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [Junior Developer Group](https://github.com/Junior-Developer-Group/junior-developer-group/tree/dev)
 
-- 🌱 I’m currently learning [TypeScript](https://frontendmasters.com/courses/typescript/)
+- 🌱 I’m currently learning [Vue Js](https://vuejs.org/v2/guide/)
 
 - 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
 
