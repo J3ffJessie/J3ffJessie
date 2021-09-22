@@ -83,9 +83,9 @@ JSON         5 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-2. ❗️ Closed issue [#12](https://github.com/J3ffJessie/J3ffJessie/issues/12) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-3. ❗️ Opened issue [#12](https://github.com/J3ffJessie/J3ffJessie/issues/12) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-4. 🗣 Commented on [#37](https://github.com/Junior-Developer-Group/junior-developer-group/issues/37) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-5. 💪 Opened PR [#37](https://github.com/Junior-Developer-Group/junior-developer-group/pull/37) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+1. ❗️ Closed issue [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+2. 🗣 Commented on [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+3. ❗️ Opened issue [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+4. ❗️ Closed issue [#12](https://github.com/J3ffJessie/J3ffJessie/issues/12) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+5. ❗️ Opened issue [#12](https://github.com/J3ffJessie/J3ffJessie/issues/12) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
 <!--END_SECTION:activity-->
