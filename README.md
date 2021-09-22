@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A JavaScript Developer passionate about helping others.</h3>
 <br>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/profile.png"alt="Profile Photo" width=200px height=200px/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/main/profile.png"alt="Profile Photo" width=200px height=200px/></p>
 
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/master/JDG.png" alt="Junior Developer Group Logo" width=100px height=100px/></p>
+<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/main/JDG.png" alt="Junior Developer Group Logo" width=100px height=100px/></p>
 
 <br>
 
