@@ -83,7 +83,7 @@ No Activity tracked this Week
 
 1. 🗣 Commented on [#40](https://github.com/Junior-Developer-Group/junior-developer-group/issues/40) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
 2. 🗣 Commented on [#40](https://github.com/Junior-Developer-Group/junior-developer-group/issues/40) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-3. ❗️ Closed issue [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-4. 🗣 Commented on [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
-5. ❗️ Opened issue [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+3. 🗣 Commented on [#40](https://github.com/Junior-Developer-Group/junior-developer-group/issues/40) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+4. ❗️ Closed issue [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
+5. 🗣 Commented on [#13](https://github.com/J3ffJessie/J3ffJessie/issues/13) in [J3ffJessie/J3ffJessie](https://github.com/J3ffJessie/J3ffJessie)
 <!--END_SECTION:activity-->
