@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **JavaScript / Veterans in the WorkPlace**
 
-- 📫 How to reach me **j3ffjessie@protonmail.com**
+- 📫 How to reach me   <a href="mailto:j3ffjessie@protonmail.com"><img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=j3ffjessie&theme=github" alt="J3ffJessie contribution graph" width=500px height=500px /></p>
 
@@ -40,7 +40,7 @@
 <br>
 <h1 align="center">Contact Me</h1>
 <p align="center">
-<a href="mailto:j3ffjessie@protonmail.com"><img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+
 <a href="https://www.twitter.com/j3ffjessie"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="http://linkedin.com/in/jeff-jessie-4b2323a9"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/J3ffJessie"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
