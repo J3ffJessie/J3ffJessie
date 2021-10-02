@@ -81,9 +81,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#9](https://github.com/Junior-Developer-Group/HacktoberPet/issues/9) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-2. 🗣 Commented on [#10](https://github.com/Junior-Developer-Group/HacktoberPet/issues/10) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-3. 💪 Opened PR [#237](https://github.com/hctnm2/Beginner-Hacktoberfest/pull/237) in [hctnm2/Beginner-Hacktoberfest](https://github.com/hctnm2/Beginner-Hacktoberfest)
-4. 🎉 Merged PR [#7](https://github.com/Junior-Developer-Group/HacktoberPet/pull/7) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-5. 💪 Opened PR [#8](https://github.com/Junior-Developer-Group/HacktoberPet/pull/8) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+1. 🎉 Merged PR [#12](https://github.com/Junior-Developer-Group/HacktoberPet/pull/12) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+2. ❌ Reopened PR [#12](https://github.com/Junior-Developer-Group/HacktoberPet/pull/12) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+3. ❌ Closed PR [#12](https://github.com/Junior-Developer-Group/HacktoberPet/pull/12) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+4. 🗣 Commented on [#12](https://github.com/Junior-Developer-Group/HacktoberPet/issues/12) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+5. 🗣 Commented on [#9](https://github.com/Junior-Developer-Group/HacktoberPet/issues/9) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
 <!--END_SECTION:activity-->
