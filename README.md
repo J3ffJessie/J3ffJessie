@@ -81,9 +81,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#36](https://github.com/SahityaRoy/Hacktoberfest_Practice_Contribution/pull/36) in [SahityaRoy/Hacktoberfest_Practice_Contribution](https://github.com/SahityaRoy/Hacktoberfest_Practice_Contribution)
-2. 🎉 Merged PR [#6](https://github.com/Junior-Developer-Group/HacktoberPet/pull/6) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-3. 🎉 Merged PR [#1](https://github.com/Junior-Developer-Group/HacktoberPet/pull/1) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-4. 🗣 Commented on [#40](https://github.com/Junior-Developer-Group/junior-developer-group/issues/40) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+1. 💪 Opened PR [#8](https://github.com/Junior-Developer-Group/HacktoberPet/pull/8) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+2. 💪 Opened PR [#36](https://github.com/SahityaRoy/Hacktoberfest_Practice_Contribution/pull/36) in [SahityaRoy/Hacktoberfest_Practice_Contribution](https://github.com/SahityaRoy/Hacktoberfest_Practice_Contribution)
+3. 🎉 Merged PR [#6](https://github.com/Junior-Developer-Group/HacktoberPet/pull/6) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+4. 🎉 Merged PR [#1](https://github.com/Junior-Developer-Group/HacktoberPet/pull/1) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
 5. 🗣 Commented on [#40](https://github.com/Junior-Developer-Group/junior-developer-group/issues/40) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
 <!--END_SECTION:activity-->
