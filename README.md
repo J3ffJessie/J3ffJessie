@@ -81,9 +81,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#105](https://github.com/YasiOnFire/coders-railroad/pull/105) in [YasiOnFire/coders-railroad](https://github.com/YasiOnFire/coders-railroad)
-2. 🗣 Commented on [#13](https://github.com/Junior-Developer-Group/HacktoberPet/issues/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-3. 🗣 Commented on [#13](https://github.com/Junior-Developer-Group/HacktoberPet/issues/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-4. ❌ Closed PR [#14](https://github.com/Junior-Developer-Group/HacktoberPet/pull/14) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-5. ❌ Closed PR [#13](https://github.com/Junior-Developer-Group/HacktoberPet/pull/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+1. ❗️ Opened issue [#20](https://github.com/Junior-Developer-Group/HacktoberPet/issues/20) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+2. 🎉 Merged PR [#19](https://github.com/Junior-Developer-Group/HacktoberPet/pull/19) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+3. 💪 Opened PR [#105](https://github.com/YasiOnFire/coders-railroad/pull/105) in [YasiOnFire/coders-railroad](https://github.com/YasiOnFire/coders-railroad)
+4. 🗣 Commented on [#13](https://github.com/Junior-Developer-Group/HacktoberPet/issues/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+5. 🗣 Commented on [#13](https://github.com/Junior-Developer-Group/HacktoberPet/issues/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
 <!--END_SECTION:activity-->
