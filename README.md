@@ -81,9 +81,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#22](https://github.com/Junior-Developer-Group/HacktoberPet/pull/22) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-2. 🗣 Commented on [#22](https://github.com/Junior-Developer-Group/HacktoberPet/issues/22) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-3. 🗣 Commented on [#25](https://github.com/Junior-Developer-Group/HacktoberPet/issues/25) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-4. ❗️ Closed issue [#20](https://github.com/Junior-Developer-Group/HacktoberPet/issues/20) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-5. 💪 Opened PR [#24](https://github.com/Junior-Developer-Group/HacktoberPet/pull/24) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+1. 🎉 Merged PR [#25](https://github.com/Junior-Developer-Group/HacktoberPet/pull/25) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+2. 🗣 Commented on [#25](https://github.com/Junior-Developer-Group/HacktoberPet/issues/25) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+3. 🎉 Merged PR [#22](https://github.com/Junior-Developer-Group/HacktoberPet/pull/22) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+4. 🗣 Commented on [#22](https://github.com/Junior-Developer-Group/HacktoberPet/issues/22) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+5. 🗣 Commented on [#25](https://github.com/Junior-Developer-Group/HacktoberPet/issues/25) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
 <!--END_SECTION:activity-->
