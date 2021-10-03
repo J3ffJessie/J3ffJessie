@@ -81,9 +81,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/pull/6) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
-2. 💪 Opened PR [#6](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/pull/6) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
-3. ❌ Closed PR [#11](https://github.com/Junior-Developer-Group/HacktoberPet/pull/11) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-4. 🗣 Commented on [#11](https://github.com/Junior-Developer-Group/HacktoberPet/issues/11) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-5. ❗️ Closed issue [#9](https://github.com/Junior-Developer-Group/HacktoberPet/issues/9) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+1. 🗣 Commented on [#13](https://github.com/Junior-Developer-Group/HacktoberPet/issues/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+2. ❌ Closed PR [#14](https://github.com/Junior-Developer-Group/HacktoberPet/pull/14) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+3. ❌ Closed PR [#13](https://github.com/Junior-Developer-Group/HacktoberPet/pull/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+4. 🗣 Commented on [#13](https://github.com/Junior-Developer-Group/HacktoberPet/issues/13) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+5. 🎉 Merged PR [#6](https://github.com/J3ffJessie/NextJs-MarkDown-Blog/pull/6) in [J3ffJessie/NextJs-MarkDown-Blog](https://github.com/J3ffJessie/NextJs-MarkDown-Blog)
 <!--END_SECTION:activity-->
