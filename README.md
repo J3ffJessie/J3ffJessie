@@ -84,9 +84,9 @@ No Activity tracked this Week
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#57](https://github.com/Junior-Developer-Group/junior-coding-team/pull/57) in [Junior-Developer-Group/junior-coding-team](https://github.com/Junior-Developer-Group/junior-coding-team)
-2. ❌ Closed PR [#237](https://github.com/hctnm2/Open-Source-Enthusiast/pull/237) in [hctnm2/Open-Source-Enthusiast](https://github.com/hctnm2/Open-Source-Enthusiast)
-3. 🎉 Merged PR [#64](https://github.com/Junior-Developer-Group/HacktoberPet/pull/64) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-4. 🎉 Merged PR [#52](https://github.com/Junior-Developer-Group/HacktoberPet/pull/52) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-5. 🎉 Merged PR [#51](https://github.com/Junior-Developer-Group/HacktoberPet/pull/51) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+1. 🎉 Merged PR [#65](https://github.com/Junior-Developer-Group/HacktoberPet/pull/65) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+2. 🎉 Merged PR [#57](https://github.com/Junior-Developer-Group/junior-coding-team/pull/57) in [Junior-Developer-Group/junior-coding-team](https://github.com/Junior-Developer-Group/junior-coding-team)
+3. ❌ Closed PR [#237](https://github.com/hctnm2/Open-Source-Enthusiast/pull/237) in [hctnm2/Open-Source-Enthusiast](https://github.com/hctnm2/Open-Source-Enthusiast)
+4. 🎉 Merged PR [#64](https://github.com/Junior-Developer-Group/HacktoberPet/pull/64) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+5. 🎉 Merged PR [#52](https://github.com/Junior-Developer-Group/HacktoberPet/pull/52) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
 <!--END_SECTION:activity-->
