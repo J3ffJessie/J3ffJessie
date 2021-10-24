@@ -74,9 +74,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 hr 12 mins    ████████████████████░░░░░   79.43 % 
-Markdown     15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
-CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
