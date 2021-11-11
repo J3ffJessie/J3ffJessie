@@ -85,8 +85,8 @@ HTML       3 mins          █████████████████�
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#63](https://github.com/Junior-Developer-Group/junior-developer-group/issues/63) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-2. 🗣 Commented on [#61](https://github.com/Junior-Developer-Group/junior-developer-group/issues/61) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-3. 🎉 Merged PR [#79](https://github.com/Junior-Developer-Group/HacktoberPet/pull/79) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
-4. 🗣 Commented on [#79](https://github.com/Junior-Developer-Group/HacktoberPet/issues/79) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
+2. 🗣 Commented on [#63](https://github.com/Junior-Developer-Group/junior-developer-group/issues/63) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+3. 🗣 Commented on [#61](https://github.com/Junior-Developer-Group/junior-developer-group/issues/61) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+4. 🎉 Merged PR [#79](https://github.com/Junior-Developer-Group/HacktoberPet/pull/79) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
 5. 🗣 Commented on [#79](https://github.com/Junior-Developer-Group/HacktoberPet/issues/79) in [Junior-Developer-Group/HacktoberPet](https://github.com/Junior-Developer-Group/HacktoberPet)
 <!--END_SECTION:activity-->
