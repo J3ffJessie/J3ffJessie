@@ -74,9 +74,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         2 mins          ███████████▓░░░░░░░░░░░░░   46.80 % 
-Markdown     1 min           ███████▒░░░░░░░░░░░░░░░░░   29.18 % 
-JavaScript   1 min           ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
