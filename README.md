@@ -74,7 +74,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         7 mins          ███████████████████▓░░░░░   78.44 % 
+Vue.js       1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 <!--END_SECTION:waka-->
 
