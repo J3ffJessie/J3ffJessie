@@ -84,9 +84,9 @@ No Activity tracked this Week
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#76](https://github.com/Junior-Developer-Group/junior-developer-group/pull/76) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-2. 🎉 Merged PR [#74](https://github.com/Junior-Developer-Group/junior-developer-group/pull/74) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-3. 🎉 Merged PR [#75](https://github.com/Junior-Developer-Group/junior-developer-group/pull/75) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-4. 🗣 Commented on [#64](https://github.com/Junior-Developer-Group/junior-developer-group/issues/64) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-5. 🗣 Commented on [#63](https://github.com/Junior-Developer-Group/junior-developer-group/issues/63) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+1. 🎉 Merged PR [#91](https://github.com/Junior-Developer-Group/junior-developer-group/pull/91) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+2. 💪 Opened PR [#76](https://github.com/Junior-Developer-Group/junior-developer-group/pull/76) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+3. 🎉 Merged PR [#74](https://github.com/Junior-Developer-Group/junior-developer-group/pull/74) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+4. 🎉 Merged PR [#75](https://github.com/Junior-Developer-Group/junior-developer-group/pull/75) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+5. 🗣 Commented on [#64](https://github.com/Junior-Developer-Group/junior-developer-group/issues/64) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
 <!--END_SECTION:activity-->
