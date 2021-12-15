@@ -84,9 +84,9 @@ No Activity tracked this Week
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#15](https://github.com/DevVet/DevVetBot/issues/15) in [DevVet/DevVetBot](https://github.com/DevVet/DevVetBot)
-2. 🎉 Merged PR [#103](https://github.com/Junior-Developer-Group/junior-developer-group/pull/103) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-3. 🗣 Commented on [#101](https://github.com/Junior-Developer-Group/junior-developer-group/issues/101) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-4. 🎉 Merged PR [#100](https://github.com/Junior-Developer-Group/junior-developer-group/pull/100) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-5. 🗣 Commented on [#100](https://github.com/Junior-Developer-Group/junior-developer-group/issues/100) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+1. 🗣 Commented on [#120](https://github.com/Junior-Developer-Group/junior-developer-group/issues/120) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+2. ❗️ Opened issue [#15](https://github.com/DevVet/DevVetBot/issues/15) in [DevVet/DevVetBot](https://github.com/DevVet/DevVetBot)
+3. 🎉 Merged PR [#103](https://github.com/Junior-Developer-Group/junior-developer-group/pull/103) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+4. 🗣 Commented on [#101](https://github.com/Junior-Developer-Group/junior-developer-group/issues/101) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+5. 🎉 Merged PR [#100](https://github.com/Junior-Developer-Group/junior-developer-group/pull/100) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
 <!--END_SECTION:activity-->
