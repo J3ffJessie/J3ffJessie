@@ -2,8 +2,7 @@
 <h3 align="center">A JavaScript Developer passionate about helping others.</h3>
 <br>
 <p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/main/profile.png"alt="Profile Photo" width=200px height=200px/></p>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/main/Accenture.jpeg" alt="Accenture Logo" width=100px height=100px /></p>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/main/JDG.png" alt="Junior Developer Group Logo" width=100px height=100px/></p>
+
 
 <br>
 
@@ -12,15 +11,15 @@
 
 <br>
 
-- 🔭 I’m currently working on [Junior Developer Group](https://github.com/Junior-Developer-Group/junior-developer-group/tree/dev)
+- 🔭 I’m currently working on - Enjoying Life
 
-- 🌱 I’m currently learning [Vue Js](https://vuejs.org/v2/guide/)
+- 🌱 I’m currently learning - XML, XSL, X-Path, XTT, SOAP API
 
-- 📝 I regularly write articles on [Dev.To](https://dev.to/j3ffjessie)
+
+- 📝 I irregularly write articles on [Dev.To](https://dev.to/j3ffjessie)
 
 - 💬 Ask me about **JavaScript / Veterans in the WorkPlace**
 
-- 📫 How to reach me   <a href="mailto:j3ffjessie@protonmail.com"><img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=j3ffjessie&theme=github" alt="J3ffJessie contribution graph" width=500px height=500px /></p>
 
