@@ -84,5 +84,13 @@ No activity tracked
 <br>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+2. ⭐ Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
+3. ⭐ Starred [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme)
+4. 
+5. 
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Thursday, March 24th, 2022, 2:48:47 PM
+<!--RECENT_ACTIVITY:last_update_end-->
