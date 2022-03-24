@@ -83,11 +83,6 @@ No activity tracked
 
 <br>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#122](https://github.com/Junior-Developer-Group/junior-developer-group/pull/122) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-2. 🗣 Commented on [#120](https://github.com/Junior-Developer-Group/junior-developer-group/issues/120) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-3. ❗️ Opened issue [#15](https://github.com/DevVet/DevVetBot/issues/15) in [DevVet/DevVetBot](https://github.com/DevVet/DevVetBot)
-4. 🎉 Merged PR [#103](https://github.com/Junior-Developer-Group/junior-developer-group/pull/103) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-5. 🗣 Commented on [#101](https://github.com/Junior-Developer-Group/junior-developer-group/issues/101) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
