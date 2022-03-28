@@ -11,9 +11,9 @@
 
 <br>
 
-- 🔭 I’m currently working on - Enjoying Life
+- 🔭 I’m currently working on - <a href="https://www.servicenow.com/">ServiceNow</a>
 
-- 🌱 I’m currently learning - XML, XSL, X-Path, XTT, SOAP API
+- 🌱 I’m currently learning - SQL, CMDB & CSDM, ITIL, SCRUM
 
 
 - 📝 I irregularly write articles on [Dev.To](https://dev.to/j3ffjessie)
