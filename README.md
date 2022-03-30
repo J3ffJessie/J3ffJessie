@@ -1,7 +1,16 @@
+<style>
+    img[src$="#profile"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A JavaScript Developer passionate about helping others.</h3>
 <br>
-<p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/main/profile.png"alt="Profile Photo" width=200px height=200px style="border-radius:50%"/></p>
+![Profile](https://github.com/J3ffJessie/J3ffJessie/blob/main/profile.png/#profile)
 
 
 <br>
