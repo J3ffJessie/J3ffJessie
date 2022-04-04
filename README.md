@@ -84,13 +84,13 @@ Markdown   26 mins         █████████████████�
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/J3ffJessie/CodeJourney/pull/7) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
-2. 🎉 Merged PR [#6](https://github.com/J3ffJessie/CodeJourney/pull/6) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
-3. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
-4. ⭐ Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
-5. ⭐ Starred [JasonEtco/rss-to-readme](https://github.com/JasonEtco/rss-to-readme)
+1. ⭐ Starred [deepgram/deepgram-node-sdk](https://github.com/deepgram/deepgram-node-sdk)
+2. 🎉 Merged PR [#7](https://github.com/J3ffJessie/CodeJourney/pull/7) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+3. 🎉 Merged PR [#6](https://github.com/J3ffJessie/CodeJourney/pull/6) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+4. ⭐ Starred [penpot/penpot](https://github.com/penpot/penpot)
+5. ⭐ Starred [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 4th, 2022, 2:37:44 PM
+Last Updated: Monday, April 4th, 2022, 3:21:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
