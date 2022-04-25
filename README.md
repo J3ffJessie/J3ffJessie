@@ -13,10 +13,10 @@
 
 - 🔭 I’m currently working on - <a href="https://www.servicenow.com/">ServiceNow</a>
 
-- 🌱 I’m currently learning - SQL, CMDB & CSDM, ITIL, SCRUM
+- 🌱 I’m currently learning - [Go(golang)](https://go.dev/doc/)
 
 
-- 📝 I irregularly write articles on [Dev.To](https://dev.to/j3ffjessie)
+- 📝 I irregularly write articles (need to write more) on [Dev.To](https://dev.to/j3ffjessie)
 
 - 💬 Ask me about **JavaScript / Veterans in the WorkPlace**
 
