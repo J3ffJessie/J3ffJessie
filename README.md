@@ -84,13 +84,13 @@ No activity tracked
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/J3ffJessie/CodeJourney/pull/3) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
-2. 📔 Created new repository [J3ffJessie/Go-practice-Code](https://github.com/J3ffJessie/Go-practice-Code)
-3. ⭐ Starred [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-4. ⭐ Starred [deepgram/deepgram-node-sdk](https://github.com/deepgram/deepgram-node-sdk)
-5. 🎉 Merged PR [#7](https://github.com/J3ffJessie/CodeJourney/pull/7) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+1. 📔 Created new repository [J3ffJessie/Golang-API](https://github.com/J3ffJessie/Golang-API)
+2. 🎉 Merged PR [#3](https://github.com/J3ffJessie/CodeJourney/pull/3) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+3. 📔 Created new repository [J3ffJessie/Go-practice-Code](https://github.com/J3ffJessie/Go-practice-Code)
+4. ⭐ Starred [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+5. ⭐ Starred [deepgram/deepgram-node-sdk](https://github.com/deepgram/deepgram-node-sdk)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 25th, 2022, 7:37:39 PM
+Last Updated: Monday, April 25th, 2022, 8:20:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
