@@ -13,8 +13,7 @@
 
 - 🔭 I’m currently working on - <a href="https://www.servicenow.com/">ServiceNow</a>
 
-- 🌱 I’m currently learning - [Go(golang)](https://go.dev/doc/)
-
+- 🌱 I’m currently learning - To be more attentive and more appreciative of those around me.
 
 - 📝 I irregularly write articles (need to write more) on [Dev.To](https://dev.to/j3ffjessie)
 
