@@ -73,9 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       4 mins          ██████████████▓░░░░░░░░░░   58.59 %
-Markdown     2 mins          ████████▓░░░░░░░░░░░░░░░░   34.96 %
-JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
