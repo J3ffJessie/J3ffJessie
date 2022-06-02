@@ -83,13 +83,13 @@ No activity tracked
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/J3ffJessie/AngularAppExample/pull/1) in [J3ffJessie/AngularAppExample](https://github.com/J3ffJessie/AngularAppExample)
-2. 🎉 Merged PR [#1](https://github.com/J3ffJessie/AngularAppExample/pull/1) in [J3ffJessie/AngularAppExample](https://github.com/J3ffJessie/AngularAppExample)
-3. 📔 Created new repository [J3ffJessie/AngularAppExample](https://github.com/J3ffJessie/AngularAppExample)
-4. ✔️ Closed issue [#17](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/17) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
-5. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+1. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+2. 💪 Opened PR [#1](https://github.com/J3ffJessie/AngularAppExample/pull/1) in [J3ffJessie/AngularAppExample](https://github.com/J3ffJessie/AngularAppExample)
+3. 🎉 Merged PR [#1](https://github.com/J3ffJessie/AngularAppExample/pull/1) in [J3ffJessie/AngularAppExample](https://github.com/J3ffJessie/AngularAppExample)
+4. 📔 Created new repository [J3ffJessie/AngularAppExample](https://github.com/J3ffJessie/AngularAppExample)
+5. ✔️ Closed issue [#17](https://github.com/J3ffJessie/KMS-Knights-GradeChecker/issues/17) in [J3ffJessie/KMS-Knights-GradeChecker](https://github.com/J3ffJessie/KMS-Knights-GradeChecker)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 2nd, 2022, 5:06:04 AM
+Last Updated: Thursday, June 2nd, 2022, 5:47:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
