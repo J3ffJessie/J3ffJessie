@@ -83,13 +83,13 @@ No activity tracked
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#156](https://github.com/Junior-Developer-Group/junior-developer-group/pull/156#pullrequestreview-1010531628) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-2. 💬 Commented on [#154](https://github.com/Junior-Developer-Group/junior-developer-group/pull/154#discussion_r896770170) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-3. 🔴 Requested 2 change(s) for [#154](https://github.com/Junior-Developer-Group/junior-developer-group/pull/154#pullrequestreview-1005793152) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-4. ⭐ Starred [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
-5. 💪 Opened PR [#1](https://github.com/J3ffJessie/AngularAppExample/pull/1) in [J3ffJessie/AngularAppExample](https://github.com/J3ffJessie/AngularAppExample)
+1. ⭐ Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)
+2. ⭐ Starred [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+3. 👍 Approved [#156](https://github.com/Junior-Developer-Group/junior-developer-group/pull/156#pullrequestreview-1010531628) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+4. 💬 Commented on [#154](https://github.com/Junior-Developer-Group/junior-developer-group/pull/154#discussion_r896770170) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+5. 🔴 Requested 1 change(s) for [#154](https://github.com/Junior-Developer-Group/junior-developer-group/pull/154#pullrequestreview-1005793152) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 19th, 2022, 10:05:18 PM
+Last Updated: Sunday, June 19th, 2022, 10:34:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
