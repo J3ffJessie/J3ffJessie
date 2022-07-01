@@ -83,13 +83,13 @@ No activity tracked
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#160](https://github.com/Junior-Developer-Group/junior-developer-group/pull/160) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-2. ⭐ Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)
-3. ⭐ Starred [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-4. 👍 Approved [#156](https://github.com/Junior-Developer-Group/junior-developer-group/pull/156#pullrequestreview-1010531628) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
-5. 💬 Commented on [#154](https://github.com/Junior-Developer-Group/junior-developer-group/pull/154#discussion_r896770170) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+1. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+2. 💪 Opened PR [#160](https://github.com/Junior-Developer-Group/junior-developer-group/pull/160) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
+3. ⭐ Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)
+4. ⭐ Starred [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+5. 👍 Approved [#156](https://github.com/Junior-Developer-Group/junior-developer-group/pull/156#pullrequestreview-1010531628) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 1st, 2022, 9:04:08 PM
+Last Updated: Friday, July 1st, 2022, 9:33:52 PM
 <!--RECENT_ACTIVITY:last_update_end-->
