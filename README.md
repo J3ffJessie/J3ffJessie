@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on - <a href="https://www.servicenow.com/">ServiceNow</a>
 
-- 🌱 I’m currently learning - To be more attentive and more appreciative of those around me.
+- 🌱 I’m currently learning - ServiceNow UI Development
 
 - 📝 I irregularly write articles (need to write more) on [Dev.To](https://dev.to/j3ffjessie)
 
