@@ -84,13 +84,13 @@ Markdown   1 min           █████████████████�
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#20](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/20) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-2. 💬 Commented on [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18#issuecomment-1264669093) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-3. 💪 Opened PR [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-4. ❗️ Opened issue [#16](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/16) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-5. 💪 Opened PR [#9](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/9) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+1. 💪 Opened PR [#23](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/23) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+2. ❗️ Opened issue [#20](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/20) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+3. 💬 Commented on [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18#issuecomment-1264669093) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+4. 💪 Opened PR [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+5. ❗️ Opened issue [#16](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/16) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 2nd, 2022, 11:07:49 PM
+Last Updated: Sunday, October 2nd, 2022, 11:44:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
