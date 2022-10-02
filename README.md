@@ -84,13 +84,13 @@ Markdown   1 min           █████████████████�
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [J3ffJessie/DevBot](https://github.com/J3ffJessie/DevBot)
-2. ⭐ Starred [ServiceNow/devtraining-createnotes-sandiego](https://github.com/ServiceNow/devtraining-createnotes-sandiego)
-3. ⭐ Starred [dtinth/discord-transcriber](https://github.com/dtinth/discord-transcriber)
-4. ⭐ Starred [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+1. 💪 Opened PR [#9](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/9) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+2. 📔 Created new repository [J3ffJessie/DevBot](https://github.com/J3ffJessie/DevBot)
+3. ⭐ Starred [ServiceNow/devtraining-createnotes-sandiego](https://github.com/ServiceNow/devtraining-createnotes-sandiego)
+4. ⭐ Starred [dtinth/discord-transcriber](https://github.com/dtinth/discord-transcriber)
 5. 💪 Opened PR [#160](https://github.com/Junior-Developer-Group/junior-developer-group/pull/160) in [Junior-Developer-Group/junior-developer-group](https://github.com/Junior-Developer-Group/junior-developer-group)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 2nd, 2022, 12:52:31 AM
+Last Updated: Sunday, October 2nd, 2022, 3:37:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
