@@ -84,13 +84,13 @@ Markdown   1 min           █████████████████�
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#16](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/16) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-2. 💪 Opened PR [#9](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/9) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-3. 📔 Created new repository [J3ffJessie/DevBot](https://github.com/J3ffJessie/DevBot)
-4. ⭐ Starred [ServiceNow/devtraining-createnotes-sandiego](https://github.com/ServiceNow/devtraining-createnotes-sandiego)
-5. ⭐ Starred [dtinth/discord-transcriber](https://github.com/dtinth/discord-transcriber)
+1. 💪 Opened PR [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+2. ❗️ Opened issue [#16](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/16) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+3. 💪 Opened PR [#9](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/9) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+4. 📔 Created new repository [J3ffJessie/DevBot](https://github.com/J3ffJessie/DevBot)
+5. ⭐ Starred [ServiceNow/devtraining-createnotes-sandiego](https://github.com/ServiceNow/devtraining-createnotes-sandiego)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 2nd, 2022, 2:39:38 PM
+Last Updated: Sunday, October 2nd, 2022, 3:07:22 PM
 <!--RECENT_ACTIVITY:last_update_end-->
