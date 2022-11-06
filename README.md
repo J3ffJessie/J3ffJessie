@@ -84,13 +84,13 @@ No activity tracked
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
-2. 💪 Opened PR [#23](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/23) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-3. ❗️ Opened issue [#20](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/20) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-4. 💬 Commented on [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18#issuecomment-1264669093) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-5. 💪 Opened PR [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+1. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+2. ⭐ Starred [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
+3. 💪 Opened PR [#23](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/23) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+4. ❗️ Opened issue [#20](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/20) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+5. 💬 Commented on [#18](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/18#issuecomment-1264669093) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 6th, 2022, 4:16:25 AM
+Last Updated: Sunday, November 6th, 2022, 4:47:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
