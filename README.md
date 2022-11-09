@@ -84,13 +84,13 @@ No activity tracked
 <br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hachyderm/community](https://github.com/hachyderm/community)
-2. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-3. ⭐ Starred [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
-4. 💪 Opened PR [#23](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/23) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
-5. ❗️ Opened issue [#20](https://github.com/Junior-Developer-Group/hacktoberfest-2022/issues/20) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+1. ⭐ Starred [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+2. ⭐ Starred [hachyderm/community](https://github.com/hachyderm/community)
+3. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+4. ⭐ Starred [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
+5. 💪 Opened PR [#23](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/23) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 9th, 2022, 12:39:31 AM
+Last Updated: Wednesday, November 9th, 2022, 2:59:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
