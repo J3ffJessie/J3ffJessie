@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on - <a href="https://www.servicenow.com/">ServiceNow</a>
 
-- 🌱 I’m currently learning - ServiceNow UI Development && [React Native]('https://reactnative.dev/')
+- 🌱 I’m currently learning - ServiceNow UI Development && [React Native](https://reactnative.dev/)
 
 - 📝 I irregularly write articles (need to write more) and actively Moderate on [Dev.To](https://dev.to/j3ffjessie)
 
