@@ -41,6 +41,8 @@
 <a href="https://www.twitter.com/j3ffjessie"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="http://linkedin.com/in/jeff-jessie-4b2323a9"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/J3ffJessie"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.polywork.com/jeffjessie"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black"/></a>
+<a href="https://hachyderm.io/web/@J3Dev"><img src="https://img.shields.io/mastodon/follow/108371988011131269?domain=https%3A%2F%2Fhachyderm.io&style=social" /></a>
 
 </p>
 <br>
