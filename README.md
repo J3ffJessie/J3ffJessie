@@ -26,7 +26,6 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Moderating tags on Dev](https://dev.to/j3ffjessie/moderating-tags-on-dev-23oo)
 - [Abandoning Social Media and the mental health affects](https://dev.to/j3ffjessie/abandoning-social-media-and-the-mental-health-affects-1k3g)
 - [How do Family and Friends help shape our Habits?](https://dev.to/j3ffjessie/how-do-family-and-friends-help-shape-our-habits-d9a)
