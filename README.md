@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/J3ffJessie/J3ffJessie/blob/main/profile.png"alt="Profile Photo" width=200px height=200px/></p>
 
 <br>
-<p align='center'><a href="https://hachyderm.io/web/@J3Dev"><img src="https://img.shields.io/mastodon/follow/108371988011131269?domain=https%3A%2F%2Fhachyderm.io&style=social" /></a></p>
+<p align='center'> <a rel="me" href="https://hachyderm.io/@J3Dev">Mastodon</a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie&label=Page%20views&color=1a1b27&style=flat" alt="j3ffjessie" /> </p>
 
