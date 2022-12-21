@@ -6,7 +6,6 @@
 <br>
 <p align='center'> <a rel="me" href="https://hachyderm.io/@J3Dev">Mastodon</a></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=j3ffjessie&label=Page%20views&color=1a1b27&style=flat" alt="j3ffjessie" /> </p>
 
 <br>
 
@@ -16,7 +15,7 @@
 
 - 📝 I irregularly write articles (need to write more) and actively Moderate on [Dev.To](https://dev.to/j3ffjessie)
 
-- 💬 Ask me about **JavaScript / Veterans in the WorkPlace**
+- 💬 Ask me about **JavaScript / Veterans in the WorkPlace / Apprenticeships / Consulting**
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=j3ffjessie&theme=github" alt="J3ffJessie contribution graph" width=500px height=500px /></p>
 
