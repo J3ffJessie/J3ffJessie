@@ -82,13 +82,13 @@ JSON         0 secs          ▒░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
-2. ⭐ Starred [hachyderm/community](https://github.com/hachyderm/community)
-3. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
-4. ⭐ Starred [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
-5. 💪 Opened PR [#23](https://github.com/Junior-Developer-Group/hacktoberfest-2022/pull/23) in [Junior-Developer-Group/hacktoberfest-2022](https://github.com/Junior-Developer-Group/hacktoberfest-2022)
+1. ⭐ Starred [grassfinn/MtgCollection](https://github.com/grassfinn/MtgCollection)
+2. ⭐ Starred [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+3. ⭐ Starred [hachyderm/community](https://github.com/hachyderm/community)
+4. ⭐ Starred [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+5. ⭐ Starred [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 9th, 2023, 8:32:51 PM
+Last Updated: Monday, January 9th, 2023, 9:05:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
