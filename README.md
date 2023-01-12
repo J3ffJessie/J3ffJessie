@@ -17,7 +17,8 @@
 
 - 💬 Ask me about **JavaScript / Veterans in the WorkPlace / Apprenticeships / Consulting**
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=j3ffjessie&theme=github" alt="J3ffJessie contribution graph" width=500px height=500px /></p>
+<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=j3ffjessie&theme=github-compact" alt="J3ffJessie contribution graph" width=500px height=500px /></p>
+
 
 <br>
 
