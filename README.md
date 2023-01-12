@@ -36,7 +36,7 @@
 
 <br>
 <h2 align="center">Contact Me</h2>
-<p align="center">
+<p align='center'>
 
 <a href="https://www.twitter.com/j3ffjessie"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="http://linkedin.com/in/jeff-jessie-4b2323a9"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
