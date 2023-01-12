@@ -44,11 +44,6 @@
 <a href="https://www.polywork.com/jeffjessie"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black"/></a>
 
 </p>
-<br>
-
-<br>
-
-![Jeff Jessie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j3ffjessie&show_icons=true&theme=vue)
 
 <br>
 
