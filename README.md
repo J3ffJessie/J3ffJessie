@@ -42,18 +42,15 @@
 <a href="http://linkedin.com/in/jeff-jessie-4b2323a9"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/J3ffJessie"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.polywork.com/jeffjessie"><img src="https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black"/></a>
-<a href="https://twitter.com/j3ffjessie" target="blank"><img src="https://img.shields.io/twitter/follow/j3ffjessie?logo=twitter&style=for-the-badge" alt="j3ffjessie" /></a>
 
 </p>
 <br>
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3ffjessie&show_icons=false&title_color=70a5fd&bg_color=1a1b27&text_color=38bdae" alt="Top Languages Stats">
-</P>
-<br>
+![Jeff Jessie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=j3ffjessie&show_icons=true&theme=vue)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j3ffjessie&show_icons=true&locale=en&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="j3ffjessie" /></p>
+<br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j3ffjessie&theme=tokyonight" alt="j3ffjessie" /></p>
 
