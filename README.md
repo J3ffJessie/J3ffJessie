@@ -84,11 +84,7 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<<<<<<< HEAD
 
 Last Updated: Wednesday, May 17th, 2023, 4:07:03 PM
 
-=======
-Last Updated: Wednesday, May 17th, 2023, 4:35:47 PM
->>>>>>> 24cfab1b899c31c243d9b70b120c2e29e2264a28
 <!--RECENT_ACTIVITY:last_update_end-->
