@@ -6,20 +6,17 @@
 <br>
 <p align='center'> <a rel="me" href="https://hachyderm.io/@J3Dev">Mastodon</a></p>
 
-
 <br>
 
 - 🔭 I’m currently working on - <a href="https://www.servicenow.com/">ServiceNow</a>
 
-- 🌱 I’m currently learning - ServiceNow UI Development && [React Native](https://reactnative.dev/)
+- 🌱 I’m currently learning - ServiceNow UI Development && Generative AI
 
 - 📝 I irregularly write articles (need to write more) and actively Moderate on [Dev.To](https://dev.to/j3ffjessie)
 
 - 💬 Ask me about **JavaScript / Veterans in the WorkPlace / Apprenticeships / Consulting**
 
-
 [![Jeff Jessie's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=j3ffjessie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <br>
 
@@ -27,6 +24,7 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Moderating tags on Dev](https://dev.to/j3ffjessie/moderating-tags-on-dev-23oo)
 - [Abandoning Social Media and the mental health affects](https://dev.to/j3ffjessie/abandoning-social-media-and-the-mental-health-affects-1k3g)
 - [How do Family and Friends help shape our Habits?](https://dev.to/j3ffjessie/how-do-family-and-friends-help-shape-our-habits-d9a)
@@ -86,5 +84,7 @@ SCSS         0 secs          ░░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+
 Last Updated: Wednesday, May 17th, 2023, 4:07:03 PM
+
 <!--RECENT_ACTIVITY:last_update_end-->
