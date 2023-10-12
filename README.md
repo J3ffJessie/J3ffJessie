@@ -75,13 +75,13 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-2. 🎉 Merged PR [#13](https://github.com/J3ffJessie/CodeJourney/pull/13) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
-3. 🎉 Merged PR [#8](https://github.com/J3ffJessie/To-Do-List/pull/8) in [J3ffJessie/To-Do-List](https://github.com/J3ffJessie/To-Do-List)
-4. 🎉 Merged PR [#3](https://github.com/J3ffJessie/RESTful-API/pull/3) in [J3ffJessie/RESTful-API](https://github.com/J3ffJessie/RESTful-API)
-5. ⭐ Starred [open-sauced/docs.opensauced.pizza](https://github.com/open-sauced/docs.opensauced.pizza)
+1. ❌ Closed PR [#17](https://github.com/J3ffJessie/CodeJourney/pull/17) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+2. ❌ Closed PR [#12](https://github.com/J3ffJessie/CodeJourney/pull/12) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+3. ❌ Closed PR [#11](https://github.com/J3ffJessie/CodeJourney/pull/11) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+4. 🎉 Merged PR [#16](https://github.com/J3ffJessie/CodeJourney/pull/16) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
+5. 🎉 Merged PR [#15](https://github.com/J3ffJessie/CodeJourney/pull/15) in [J3ffJessie/CodeJourney](https://github.com/J3ffJessie/CodeJourney)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 12th, 2023, 1:29:08 AM
+Last Updated: Thursday, October 12th, 2023, 2:01:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
