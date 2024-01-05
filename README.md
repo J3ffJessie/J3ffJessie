@@ -75,13 +75,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [norfolkjs/norfolkjs.github.io](https://github.com/norfolkjs/norfolkjs.github.io)
-2. ⭐ Starred [craigary/nobelium](https://github.com/craigary/nobelium)
-3. ⭐ Starred [microsoft/promptflow](https://github.com/microsoft/promptflow)
-4. ⭐ Starred [MeetRajput00/dev-blogs-central](https://github.com/MeetRajput00/dev-blogs-central)
-5. ⭐ Starred [m-bain/whisperX](https://github.com/m-bain/whisperX)
+1. ⭐ Starred [Virtual-Coffee/virtualcoffee.io](https://github.com/Virtual-Coffee/virtualcoffee.io)
+2. ⭐ Starred [norfolkjs/norfolkjs.github.io](https://github.com/norfolkjs/norfolkjs.github.io)
+3. ⭐ Starred [craigary/nobelium](https://github.com/craigary/nobelium)
+4. ⭐ Starred [microsoft/promptflow](https://github.com/microsoft/promptflow)
+5. ⭐ Starred [MeetRajput00/dev-blogs-central](https://github.com/MeetRajput00/dev-blogs-central)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 5th, 2024, 2:38:41 AM
+Last Updated: Friday, January 5th, 2024, 3:06:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
