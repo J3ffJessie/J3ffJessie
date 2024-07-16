@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JavaScript / Veterans in the WorkPlace / Apprenticeships / Consulting**
 
-[![Jeff Jessie's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=j3ffjessie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jeff Jessie's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=j3ffjessie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
