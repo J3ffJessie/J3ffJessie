@@ -76,13 +76,13 @@ SCSS         5 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [open-sauced/pizza-cli](https://github.com/open-sauced/pizza-cli)
-2. ⭐ Starred [chucktomasi/sn-learn-javascript](https://github.com/chucktomasi/sn-learn-javascript)
+1. ⭐ Starred [ServiceNowDevProgram/Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest)
+2. ⭐ Starred [open-sauced/pizza-cli](https://github.com/open-sauced/pizza-cli)
 3. ⭐ Starred [ServiceNow/servicenow-cli](https://github.com/ServiceNow/servicenow-cli)
 4. ⭐ Starred [mskoddow/sn-scripts](https://github.com/mskoddow/sn-scripts)
 5. 📔 Created new repository [J3ffJessie/C-Learning](https://github.com/J3ffJessie/C-Learning)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 1st, 2024, 4:01:03 AM
+Last Updated: Tuesday, October 1st, 2024, 4:34:52 AM
 <!--RECENT_ACTIVITY:last_update_end-->
