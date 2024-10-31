@@ -76,13 +76,13 @@ CSS          7 mins          █░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [TheTechCommute/TheTechCommute](https://github.com/TheTechCommute/TheTechCommute)
-2. ⭐ Starred [ServiceNowDevProgram/Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest)
-3. ⭐ Starred [open-sauced/pizza-cli](https://github.com/open-sauced/pizza-cli)
-4. ⭐ Starred [mskoddow/sn-scripts](https://github.com/mskoddow/sn-scripts)
+1. ⭐ Starred [ServiceNowDevProgram/SlackerBot](https://github.com/ServiceNowDevProgram/SlackerBot)
+2. ⭐ Starred [TheTechCommute/TheTechCommute](https://github.com/TheTechCommute/TheTechCommute)
+3. ⭐ Starred [ServiceNowDevProgram/Hacktoberfest](https://github.com/ServiceNowDevProgram/Hacktoberfest)
+4. ⭐ Starred [open-sauced/pizza-cli](https://github.com/open-sauced/pizza-cli)
 5. 📔 Created new repository [J3ffJessie/C-Learning](https://github.com/J3ffJessie/C-Learning)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 31st, 2024, 2:01:06 PM
+Last Updated: Thursday, October 31st, 2024, 2:33:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
