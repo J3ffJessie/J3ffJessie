@@ -76,13 +76,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-2. 📔 Created new repository [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
-3. ⭐ Starred [Kurento/kurento](https://github.com/Kurento/kurento)
+1. ⭐ Starred [derkalle4/python3-idotmatrix-client](https://github.com/derkalle4/python3-idotmatrix-client)
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+3. 📔 Created new repository [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
 4. ⭐ Starred [badger/home](https://github.com/badger/home)
 5. 📔 Created new repository [J3ffJessie/StreamSite](https://github.com/J3ffJessie/StreamSite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 11th, 2025, 7:30:34 PM
+Last Updated: Sunday, May 11th, 2025, 8:00:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
