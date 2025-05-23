@@ -76,13 +76,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [appwrite/console](https://github.com/appwrite/console)
-2. ⭐ Starred [appwrite/website](https://github.com/appwrite/website)
-3. ⭐ Starred [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
-4. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. ⭐ Starred [derkalle4/python3-idotmatrix-client](https://github.com/derkalle4/python3-idotmatrix-client)
+1. ⭐ Starred [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+2. ⭐ Starred [appwrite/console](https://github.com/appwrite/console)
+3. ⭐ Starred [appwrite/website](https://github.com/appwrite/website)
+4. ⭐ Starred [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite)
+5. ⭐ Starred [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 23rd, 2025, 6:00:56 PM
+Last Updated: Friday, May 23rd, 2025, 6:38:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
