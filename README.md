@@ -76,13 +76,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#23](https://github.com/J3ffJessie/Nulledge-Conference/pull/23) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
-2. 💪 Opened PR [#23](https://github.com/J3ffJessie/Nulledge-Conference/pull/23) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
-3. 🎉 Merged PR [#22](https://github.com/J3ffJessie/Nulledge-Conference/pull/22) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
-4. 🎉 Merged PR [#19](https://github.com/J3ffJessie/Nulledge-Conference/pull/19) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
-5. 🎉 Merged PR [#18](https://github.com/J3ffJessie/Nulledge-Conference/pull/18) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
+1. 🎉 Merged PR [#25](https://github.com/J3ffJessie/Nulledge-Conference/pull/25) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
+2. 🎉 Merged PR [#24](https://github.com/J3ffJessie/Nulledge-Conference/pull/24) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
+3. 🎉 Merged PR [#23](https://github.com/J3ffJessie/Nulledge-Conference/pull/23) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
+4. 💪 Opened PR [#23](https://github.com/J3ffJessie/Nulledge-Conference/pull/23) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
+5. 🎉 Merged PR [#22](https://github.com/J3ffJessie/Nulledge-Conference/pull/22) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 7th, 2025, 9:30:36 PM
+Last Updated: Sunday, September 7th, 2025, 10:00:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
