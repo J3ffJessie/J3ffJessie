@@ -76,13 +76,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [J3ffJessie/torctoberfest](https://github.com/J3ffJessie/torctoberfest) from [jasonetorres/torctoberfest](https://github.com/jasonetorres/torctoberfest)
-2. 🎉 Merged PR [#29](https://github.com/J3ffJessie/Nulledge-Conference/pull/29) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
-3. 🎉 Merged PR [#28](https://github.com/J3ffJessie/Nulledge-Conference/pull/28) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
-4. 🎉 Merged PR [#27](https://github.com/J3ffJessie/Nulledge-Conference/pull/27) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
-5. ⭐ Starred [jacebenson/personal-data-server](https://github.com/jacebenson/personal-data-server)
+1. ⭐ Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
+2. 🔱 Forked [J3ffJessie/torctoberfest](https://github.com/J3ffJessie/torctoberfest) from [jasonetorres/torctoberfest](https://github.com/jasonetorres/torctoberfest)
+3. 🎉 Merged PR [#29](https://github.com/J3ffJessie/Nulledge-Conference/pull/29) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
+4. 🎉 Merged PR [#28](https://github.com/J3ffJessie/Nulledge-Conference/pull/28) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
+5. 🎉 Merged PR [#27](https://github.com/J3ffJessie/Nulledge-Conference/pull/27) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 6:39:12 AM
+Last Updated: Tuesday, October 14th, 2025, 7:00:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
