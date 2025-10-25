@@ -76,13 +76,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
-2. ⭐ Starred [jacebenson/personal-data-server](https://github.com/jacebenson/personal-data-server)
+1. ⭐ Starred [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
+2. ⭐ Starred [microsoft/edgeai-for-beginners](https://github.com/microsoft/edgeai-for-beginners)
 3. ✔️ Closed issue [#21](https://github.com/J3ffJessie/Nulledge-Conference/issues/21) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 4. 🎉 Merged PR [#28](https://github.com/J3ffJessie/Nulledge-Conference/pull/28) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 5. 🎉 Merged PR [#27](https://github.com/J3ffJessie/Nulledge-Conference/pull/27) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 24th, 2025, 11:31:09 PM
+Last Updated: Saturday, October 25th, 2025, 12:03:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
