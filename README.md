@@ -76,13 +76,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
-2. ⭐ Starred [basecamp/once-campfire](https://github.com/basecamp/once-campfire)
+1. ⭐ Starred [navalsingh9/servicenow-scripting-training](https://github.com/navalsingh9/servicenow-scripting-training)
+2. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 3. ✔️ Closed issue [#21](https://github.com/J3ffJessie/Nulledge-Conference/issues/21) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 4. 🎉 Merged PR [#28](https://github.com/J3ffJessie/Nulledge-Conference/pull/28) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 5. 🎉 Merged PR [#27](https://github.com/J3ffJessie/Nulledge-Conference/pull/27) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 3:00:56 PM
+Last Updated: Monday, December 1st, 2025, 3:35:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
