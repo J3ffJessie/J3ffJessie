@@ -76,7 +76,7 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [navalsingh9/servicenow-scripting-training](https://github.com/navalsingh9/servicenow-scripting-training)
+1. ⭐ Starred [lucipas/entorcipedia](https://github.com/lucipas/entorcipedia)
 2. ⭐ Starred [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
 3. ✔️ Closed issue [#21](https://github.com/J3ffJessie/Nulledge-Conference/issues/21) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
 4. 🎉 Merged PR [#28](https://github.com/J3ffJessie/Nulledge-Conference/pull/28) in [J3ffJessie/Nulledge-Conference](https://github.com/J3ffJessie/Nulledge-Conference)
@@ -84,5 +84,5 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 12th, 2026, 7:03:25 PM
+Last Updated: Monday, January 12th, 2026, 7:33:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
