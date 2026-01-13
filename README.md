@@ -24,11 +24,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Multifunctional Discord Bot: A Comprehensive Technical Deep Dive](https://dev.to/j3ffjessie/building-a-multifunctional-discord-bot-a-comprehensive-technical-deep-dive-3kf6)
+- [[Boost]](https://dev.to/j3ffjessie/-gd0)
 - [2025 Retrospective](https://dev.to/j3ffjessie/2025-retrospective-4i84)
 - [Why Community Helps](https://dev.to/j3ffjessie/why-community-helps-ji6)
 - [Moderating tags on Dev](https://dev.to/j3ffjessie/moderating-tags-on-dev-23oo)
-- [Abandoning Social Media and the mental health affects](https://dev.to/j3ffjessie/abandoning-social-media-and-the-mental-health-affects-1k3g)
-- [How do Family and Friends help shape our Habits?](https://dev.to/j3ffjessie/how-do-family-and-friends-help-shape-our-habits-d9a)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
