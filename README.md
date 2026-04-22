@@ -4,7 +4,11 @@
 <p align="center"><img src="/profilePhoto.jpg"alt="Profile Photo" width=200px height=200px/></p>
 
 <br>
-<p align='center'> <a rel="me" href="https://hachyderm.io/@J3Dev">Mastodon</a></p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/JeffJessie">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=JeffJessie&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+</a>
+</p>
 
 <br>
 <p align='center'><a rel="me" href="https://torc-bot.vercel.app"> <img src="/TorcBot.png" alt="Torc bot landing page image" width=300px height=300px /></a></p>
