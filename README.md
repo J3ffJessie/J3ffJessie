@@ -6,7 +6,7 @@
 <br>
 <p align="center">
 <a href="https://www.buymeacoffee.com/JeffJessie">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=JeffJessie&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" />
+  <img src="/yellow-button.png" />
 </a>
 </p>
 
