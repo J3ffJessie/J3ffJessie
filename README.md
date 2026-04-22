@@ -7,7 +7,7 @@
 <p align='center'> <a rel="me" href="https://hachyderm.io/@J3Dev">Mastodon</a></p>
 
 <br>
-<p align='center'><a rel="me" href="https://torc-bot.vercel.app"> <img src="/TorcBot.png" alt="Torc bot landing page image" width=200px height=200px /></a></p>
+<p align='center'><a rel="me" href="https://torc-bot.vercel.app"> <img src="/TorcBot.png" alt="Torc bot landing page image" width=300px height=300px /></a></p>
 
 <br>
 
