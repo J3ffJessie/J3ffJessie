@@ -83,13 +83,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#38](undefined) in [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
-2. ⭐ Starred [shanselman/PokeyForWindows](https://github.com/shanselman/PokeyForWindows)
-3. 💪 Opened PR [#37](undefined) in [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
+1. ❌ Closed PR [#34](undefined) in [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
+2. 💪 Opened PR [#38](undefined) in [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
+3. ⭐ Starred [shanselman/PokeyForWindows](https://github.com/shanselman/PokeyForWindows)
 4. 💬 Commented on [#36](https://github.com/J3ffJessie/discordSummarizer/pull/36#issuecomment-4681612383) in [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
 5. 💪 Opened PR [#36](undefined) in [J3ffJessie/discordSummarizer](https://github.com/J3ffJessie/discordSummarizer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 6th, 2026, 12:48:55 AM
+Last Updated: Thursday, August 6th, 2026, 3:55:56 AM
 <!--RECENT_ACTIVITY:last_update_end-->
