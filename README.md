@@ -36,11 +36,11 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Interviewing doesn&#39;t have to be scary. Practice just got easier!!](https://dev.to/j3ffjessie/interviewing-doesnt-have-to-be-scary-practice-just-got-easier-3h4g)
 - [Torc Bot 3: Torclation Services](https://dev.to/j3ffjessie/torc-bot-3-torclation-services-3m8k)
 - [Torc Bot 2: The Refactor](https://dev.to/j3ffjessie/torc-bot-2-the-refactor-2f34)
 - [Building a Multifunctional Discord Bot: A Comprehensive Technical Deep Dive](https://dev.to/j3ffjessie/building-a-multifunctional-discord-bot-a-comprehensive-technical-deep-dive-3kf6)
 - [[Boost]](https://dev.to/j3ffjessie/-gd0)
-- [2025 Retrospective](https://dev.to/j3ffjessie/2025-retrospective-4i84)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
