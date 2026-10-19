@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning - AI and Agentic Workflows
 
-- 💬 I spend most of my time in the Torc.dev Discord with the community or in dev-null.sh with other devs. 
+- 💬 I spend most of my time in the Torc.dev Discord with the community or on https://dev-null.sh with other devs. 
 
 - 📝 I irregularly write articles (need to write more) and actively Moderate on [Dev.To](https://dev.to/j3ffjessie)
 
@@ -32,7 +32,7 @@
 <br>
   
 
-[![Jeff Jessie's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=j3ffjessie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jeff Jessie's GitHub Streak](https://streak-stats.demolab.com/?user=J3ffJessie&theme=dark)](https://github.com/J3ffJessie)
 
 <br>
 
