@@ -19,13 +19,17 @@
 
 - 🌱 I’m currently learning - AI and Agentic Workflows
 
-- 💬 I spend most of my time in the Torc.dev Discord with the community.
+- 💬 I spend most of my time in the Torc.dev Discord with the community or in dev-null.sh with other devs. 
 
 - 📝 I irregularly write articles (need to write more) and actively Moderate on [Dev.To](https://dev.to/j3ffjessie)
 
 - 💬 Ask me about **JavaScript / Veterans in the WorkPlace / Apprenticeships / Consulting**
   
   <br>
+
+[![/dev/null activity](https://dev-null.sh/@J3ffJessie/graph.svg?theme=dark)](https://dev-null.sh/@J3ffJessie)
+
+<br>
   
 
 [![Jeff Jessie's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=j3ffjessie&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
