@@ -86,11 +86,11 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 1. ⭐ Starred [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast)
 2. ⭐ Starred [mihaidaniel34/dev-null-tui](https://github.com/mihaidaniel34/dev-null-tui)
-3. 💬 Commented on [#639](https://github.com/nunomaduro/dev-null.sh/issues/639#issuecomment-6272708102) in [nunomaduro/dev-null.sh](https://github.com/nunomaduro/dev-null.sh)
+3. 💬 Commented on [#639](https://github.com/dev-null-sh/dev-null.sh/issues/639#issuecomment-6272708102) in [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh)
 4. ⭐ Starred [SxMShaDoW/sn-api-example](https://github.com/SxMShaDoW/sn-api-example)
 5. 💪 Opened PR [#1](undefined) in [J3ffJessie/nullEDGE-Session](https://github.com/J3ffJessie/nullEDGE-Session)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 21st, 2026, 7:24:56 PM
+Last Updated: Wednesday, October 21st, 2026, 10:31:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
