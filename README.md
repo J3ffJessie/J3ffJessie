@@ -84,13 +84,13 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [nickytonline/pomerium-quest](https://github.com/nickytonline/pomerium-quest)
-2. ⭐ Starred [NativePHP/dev-null-app](https://github.com/NativePHP/dev-null-app)
-3. ⭐ Starred [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast)
-4. ⭐ Starred [mihaidaniel34/dev-null-tui](https://github.com/mihaidaniel34/dev-null-tui)
-5. 💬 Commented on [#639](https://github.com/dev-null-sh/dev-null.sh/issues/639#issuecomment-6272708102) in [dev-null-sh/dev-null.sh](https://github.com/dev-null-sh/dev-null.sh)
+1. ❗️ Opened issue [#114](https://github.com/NativePHP/dev-null-app/issues/114) in [NativePHP/dev-null-app](https://github.com/NativePHP/dev-null-app)
+2. ❗️ Opened issue [#113](https://github.com/NativePHP/dev-null-app/issues/113) in [NativePHP/dev-null-app](https://github.com/NativePHP/dev-null-app)
+3. ⭐ Starred [nickytonline/pomerium-quest](https://github.com/nickytonline/pomerium-quest)
+4. ⭐ Starred [NativePHP/dev-null-app](https://github.com/NativePHP/dev-null-app)
+5. ⭐ Starred [typecraft-dev/oma-cast](https://github.com/typecraft-dev/oma-cast)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 27th, 2026, 11:17:19 PM
+Last Updated: Wednesday, October 28th, 2026, 2:26:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
